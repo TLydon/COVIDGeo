@@ -1,3 +1,7 @@
+#R Code for scraping sub-county level COVID-19(COVID19) case and test numbers. Includes zipcodes, census tracts, and municipalities.
+#Intended for archiving or rendering updated maps including smallest size geographies.
+#Each one to be labelled and combined later. If anyone seeks to help, please let me know.
+
 #Arizona Zip Code Data
 write.csv(file=paste0("AZzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),jsonlite::fromJSON("https://services1.arcgis.com/mpVYz37anSdrK4d8/ArcGIS/rest/services/CVD_ZIPS_FORWEBMAP/FeatureServer/0/query?where=OBJECTID%3E0&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=*&returnGeometry=false&returnCentroid=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=")[["features"]][["attributes"]])
 
