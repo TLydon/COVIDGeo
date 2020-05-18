@@ -8,6 +8,9 @@ write.csv(file=paste0("AZzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),j
 #Delaware Zip Code Data
 write.csv(file=paste0("DEzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),jsonlite::fromJSON("https://services1.arcgis.com/PlCPCPzGOwulHUHo/ArcGIS/rest/services/DEMA_COVID_ByZip/FeatureServer/0/query?where=OBJECTID%3E0&objectIds=&time=&resultType=none&outFields=*&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=pjson&token=")[["features"]][["attributes"]])
 
+#Florida Zip Code Data
+write.csv(file=paste0("FLzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),jsonlite::fromJSON("https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Cases_Zips_COVID19/FeatureServer/0/query?where=OBJECTID%3E0&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=*&returnGeometry=false&returnCentroid=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson")[["features"]][["attributes"]])
+
 #Illinois Zip Code Data
 write.csv(file=paste0("ILzip",gsub("[ :]","_",gsub("-","",Sys.time())),jsonlite::fromJSON("https://www.dph.illinois.gov/sitefiles/COVIDZip.json?nocache=1")[["zip_values"]]))
 
