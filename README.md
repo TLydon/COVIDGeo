@@ -7,4 +7,5 @@ COVID SubCounty Data Scraper/Collector
 
 ## Getting Started
 
-Using R, I've created a sub-county data scraper for COVID tests and cases. I welcome anyone to collaborate. I've been saving this data daily because most sites only post the most recent data. Please feel welcome to use it or suggest updates.
+In the Archived Datasets:
+CSV File Prefixes describe the location, geographic level(zip,muni,tract,etc.), and is either followed by date MMDDYYYY, MMDDYY, or YYYYMMDD_HH_MM_SS because I've changes since the original convention.
