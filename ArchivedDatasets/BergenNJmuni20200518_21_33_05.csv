@@ -1,0 +1,71 @@
+"","fid","objectid","mun","county","mun_label","name","gnis_name","ssn","mun_code","census2010","sq_miles","positives","ho2020"
+"1",10,374,"MOONACHIE BORO","BERGEN","Moonachie Borough","Moonachie Borough","Moonachie","0237","0237","3400347700",1.74202147,66,NA
+"2",25,402,"ENGLEWOOD CITY","BERGEN","Englewood City","Englewood","Englewood","0215","0215","3400321480",4.94635532,735,NA
+"3",24,401,"HACKENSACK CITY","BERGEN","Hackensack City","Hackensack","Hackensack","0223","0223","3400328680",4.34290106,1258,NA
+"4",11,375,"PALISADES PARK BORO","BERGEN","Palisades Park Borough","Palisades Park Borough","Palisades Park","0245","0245","3400355770",1.28259582,242,NA
+"5",21,394,"GARFIELD CITY","BERGEN","Garfield City","Garfield","Garfield","0221","0221","3400325770",2.19131912,747,NA
+"6",4,362,"CLIFFSIDE PARK BORO","BERGEN","Cliffside Park Borough","Cliffside Park Borough","Cliffside Park","0206","0206","3400313570",0.95591674,461,NA
+"7",26,403,"TEANECK TWP","BERGEN","Teaneck Township","Teaneck Township","Teaneck","0260","0260","3400372360",6.23912592,1029,NA
+"8",23,397,"ENGLEWOOD CLIFFS BORO","BERGEN","Englewood Cliffs Borough","Englewood Cliffs Borough","Englewood Cliffs","0216","0216","3400321510",2.08183414,56,NA
+"9",13,379,"WALLINGTON BORO","BERGEN","Wallington Borough","Wallington Borough","Wallington","0265","0265","3400376490",1.04759462,156,NA
+"10",12,377,"LITTLE FERRY BORO","BERGEN","Little Ferry Borough","Little Ferry Borough","Little Ferry","0230","0230","3400340680",1.67225021,191,NA
+"11",16,383,"FORT LEE BORO","BERGEN","Fort Lee Borough","Fort Lee Borough","Fort Lee","0219","0219","3400324420",2.50967326,441,NA
+"12",19,388,"LEONIA BORO","BERGEN","Leonia Borough","Leonia Borough","Leonia","0229","0229","3400340020",1.62857709,106,NA
+"13",1,351,"NORTH ARLINGTON BORO","BERGEN","North Arlington Borough","North Arlington Borough","North Arlington","0239","0239","3400352320",2.53046749,265,NA
+"14",18,385,"HASBROUCK HEIGHTS BORO","BERGEN","Hasbrouck Heights Borough","Hasbrouck Heights Borough","Hasbrouck Heights","0225","0225","3400330420",1.53017566,201,NA
+"15",17,384,"SOUTH HACKENSACK TWP","BERGEN","South Hackensack Township","South Hackensack Township","South Hackensack","0259","0259","3400368970",0.74422241,60,NA
+"16",2,355,"LYNDHURST TWP","BERGEN","Lyndhurst Township","Lyndhurst Township","Lyndhurst","0232","0232","3400342090",4.96599417,370,NA
+"17",5,366,"RUTHERFORD BORO","BERGEN","Rutherford Borough","Rutherford Borough","Rutherford","0256","0256","3400365280",2.89014283,184,NA
+"18",6,367,"RIDGEFIELD BORO","BERGEN","Ridgefield Borough","Ridgefield Borough","Ridgefield","0249","0249","3400362910",2.85417876,186,NA
+"19",14,380,"WOOD-RIDGE BORO","BERGEN","Wood-Ridge Borough","Wood-Ridge Borough","Wood-Ridge","0269","0269","3400382570",1.10774653,137,NA
+"20",15,382,"RIDGEFIELD PARK VILLAGE","BERGEN","Ridgefield Park Village","Ridgefield Park Village","Ridgefield Park","0250","0250","3400362940",1.92161695,258,NA
+"21",8,372,"CARLSTADT BORO","BERGEN","Carlstadt Borough","Carlstadt Borough","Carlstadt","0205","0205","3400310480",4.20330065,94,NA
+"22",22,395,"LODI BORO","BERGEN","Lodi Borough","Lodi Borough","Lodi","0231","0231","3400341100",2.29062381,641,NA
+"23",3,358,"FAIRVIEW BORO","BERGEN","Fairview Borough","Fairview Borough","Fairview","0218","0218","3400322560",0.84485053,347,NA
+"24",9,373,"EAST RUTHERFORD BORO","BERGEN","East Rutherford Borough","East Rutherford Borough","East Rutherford","0212","0212","3400319510",4.04503765,134,NA
+"25",27,404,"MAYWOOD BORO","BERGEN","Maywood Borough","Maywood Borough","Maywood","0234","0234","3400344880",1.28826531,225,NA
+"26",28,405,"ROCHELLE PARK TWP","BERGEN","Rochelle Park Township","Rochelle Park Township","Rochelle Park","0254","0254","3400363990",1.02527357,160,NA
+"27",47,438,"ALPINE BORO","BERGEN","Alpine Borough","Alpine Borough","Alpine","0202","0202","3400301090",6.39902873,22,NA
+"28",36,420,"CRESSKILL BORO","BERGEN","Cresskill Borough","Cresskill Borough","Cresskill","0208","0208","3400315820",2.07274817,106,NA
+"29",49,440,"RIDGEWOOD VILLAGE","BERGEN","Ridgewood Village","Ridgewood Village","Ridgewood","0251","0251","3400363000",5.80044676,289,NA
+"30",52,443,"NORWOOD BORO","BERGEN","Norwood Borough","Norwood Borough","Norwood","0241","0241","3400353610",2.79940893,71,NA
+"31",56,449,"NORTHVALE BORO","BERGEN","Northvale Borough","Northvale Borough","Northvale","0240","0240","3400353430",1.26103728,61,NA
+"32",31,411,"TENAFLY BORO","BERGEN","Tenafly Borough","Tenafly Borough","Tenafly","0261","0261","3400372420",4.55597819,148,NA
+"33",30,407,"ELMWOOD PARK BORO","BERGEN","Elmwood Park Borough","Elmwood Park Borough","Elmwood Park","0211","0211","3400321300",2.73587478,515,NA
+"34",41,426,"GLEN ROCK BORO","BERGEN","Glen Rock Borough","Glen Rock Borough","Glen Rock","0222","0222","3400326640",2.71684198,114,NA
+"35",51,442,"HO-HO-KUS BORO","BERGEN","Ho-Ho-Kus Borough","Ho-Ho-Kus Borough","Ho-Ho-Kus","0228","0228","3400332310",1.75012945,44,NA
+"36",37,421,"DUMONT BORO","BERGEN","Dumont Borough","Dumont Borough","Dumont","0210","0210","3400318400",1.9565107,293,NA
+"37",48,439,"HARRINGTON PARK BORO","BERGEN","Harrington Park Borough","Harrington Park Borough","Harrington Park","0224","0224","3400330150",2.06099058,28,NA
+"38",45,435,"WESTWOOD BORO","BERGEN","Westwood Borough","Westwood Borough","Westwood","0267","0267","3400380270",2.30149892,197,NA
+"39",42,428,"PARAMUS BORO","BERGEN","Paramus Borough","Paramus Borough","Paramus","0246","0246","3400355950",10.50055802,1005,NA
+"40",46,436,"WASHINGTON TWP","BERGEN","Washington Township","Washington Township","Washington","0266","0266","3400377135",3.00136629,98,NA
+"41",34,418,"NEW MILFORD BORO","BERGEN","New Milford Borough","New Milford Borough","New Milford","0238","0238","3400351660",2.32040391,429,NA
+"42",57,451,"WYCKOFF TWP","BERGEN","Wyckoff Township","Wyckoff Township","Wyckoff","0270","0270","3400383050",6.64832009,283,NA
+"43",39,424,"ORADELL BORO","BERGEN","Oradell Borough","Oradell Borough","Oradell","0244","0244","3400354990",2.55805565,177,NA
+"44",29,406,"SADDLE BROOK TWP","BERGEN","Saddle Brook Township","Saddle Brook Township","Saddle Brook","0257","0257","3400365340",2.7468384,295,NA
+"45",35,419,"FAIR LAWN BORO","BERGEN","Fair Lawn Borough","Fair Lawn Borough","Fair Lawn","0217","0217","3400322470",5.21887948,588,NA
+"46",44,431,"EMERSON BORO","BERGEN","Emerson Borough","Emerson Borough","Emerson","0214","0214","3400321450",2.41810374,207,NA
+"47",50,441,"MIDLAND PARK BORO","BERGEN","Midland Park Borough","Midland Park Borough","Midland Park","0235","0235","3400346110",1.5812249,84,NA
+"48",53,445,"ROCKLEIGH BORO","BERGEN","Rockleigh Borough","Rockleigh Borough","Rockleigh","0255","0255","3400364170",1.01034413,136,NA
+"49",33,414,"RIVER EDGE BORO","BERGEN","River Edge Borough","River Edge Borough","River Edge","0252","0252","3400363360",1.8811339,132,NA
+"50",40,425,"HAWORTH BORO","BERGEN","Haworth Borough","Haworth Borough","Haworth","0226","0226","3400330540",2.3466579,35,NA
+"51",43,430,"CLOSTER BORO","BERGEN","Closter Borough","Closter Borough","Closter","0207","0207","3400313810",3.29602434,77,NA
+"52",55,448,"WALDWICK BORO","BERGEN","Waldwick Borough","Waldwick Borough","Waldwick","0264","0264","3400376400",2.06841217,130,NA
+"53",38,423,"DEMAREST BORO","BERGEN","Demarest Borough","Demarest Borough","Demarest","0209","0209","3400317530",2.07861696,46,NA
+"54",54,447,"HILLSDALE BORO","BERGEN","Hillsdale Borough","Hillsdale Borough","Hillsdale","0227","0227","3400331920",2.93433836,115,NA
+"55",58,452,"OLD TAPPAN BORO","BERGEN","Old Tappan Borough","Old Tappan Borough","Old Tappan","0243","0243","3400354870",4.16255431,61,NA
+"56",66,464,"MONTVALE BORO","BERGEN","Montvale Borough","Montvale Borough","Montvale","0236","0236","3400347610",4.03298934,74,NA
+"57",67,465,"RAMSEY BORO","BERGEN","Ramsey Borough","Ramsey Borough","Ramsey","0248","0248","3400361680",5.57231291,128,NA
+"58",65,460,"OAKLAND BORO","BERGEN","Oakland Borough","Oakland Borough","Oakland","0242","0242","3400353850",8.76835015,219,NA
+"59",68,467,"UPPER SADDLE RIVER BORO","BERGEN","Upper Saddle River Borough","Upper Saddle River Borough","Upper Saddle River","0263","0263","3400375140",5.27159622,53,NA
+"60",63,458,"PARK RIDGE BORO","BERGEN","Park Ridge Borough","Park Ridge Borough","Park Ridge","0247","0247","3400356130",2.62788947,161,NA
+"61",64,459,"SADDLE RIVER BORO","BERGEN","Saddle River Borough","Saddle River Borough","Saddle River","0258","0258","3400365400",4.96144185,72,NA
+"62",60,455,"RIVER VALE TWP","BERGEN","River Vale Township","River Vale Township","River Vale","0253","0253","3400363690",4.31385298,109,NA
+"63",70,536,"TETERBORO BORO","BERGEN","Teterboro Borough","Teterboro Borough","Teterboro","0262","0262","3400372480",1.11646408,6,NA
+"64",62,457,"WOODCLIFF LAKE BORO","BERGEN","Woodcliff Lake Borough","Woodcliff Lake Borough","Woodcliff Lake","0268","0268","3400382300",3.54679817,118,NA
+"65",61,456,"ALLENDALE BORO","BERGEN","Allendale Borough","Allendale Borough","Allendale","0201","0201","3400300700",3.1159381,62,NA
+"66",32,412,"BERGENFIELD BORO","BERGEN","Bergenfield Borough","Bergenfield Borough","Bergenfield","0203","0203","3400305170",2.90662449,765,NA
+"67",69,471,"MAHWAH TWP","BERGEN","Mahwah Township","Mahwah Township","Mahwah","0233","0233","3400342750",25.88169281,250,NA
+"68",20,392,"BOGOTA BORO","BERGEN","Bogota Borough","Bogota Borough","Bogota","0204","0204","3400306490",0.79935533,167,NA
+"69",7,369,"EDGEWATER BORO","BERGEN","Edgewater Borough","Edgewater Borough","Edgewater","0213","0213","3400320020",0.96890716,128,NA
+"70",59,454,"FRANKLIN LAKES BORO","BERGEN","Franklin Lakes Borough","Franklin Lakes Borough","Franklin Lakes","0220","0220","3400324990",9.87995385,147,NA
