@@ -72,12 +72,9 @@ write.csv(file=paste0("PlanoTXzip",gsub("[ :]","_",gsub("-","",Sys.time())),".cs
 write.csv(file=paste0("CollinTXzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),CollinTXzip051620<-jsonlite::fromJSON("https://services1.arcgis.com/fdWXd5OobWR1E3er/ArcGIS/rest/services/CasesByZip/FeatureServer/0/query?where=OBJECTID%3E0&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=*&returnGeometry=false&returnCentroid=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=")[["features"]][["attributes"]])
 
 #San Francisco Zip Code Date
-write.csv(file=paste0("sfNzip",gsub("[ :]","_",gsub("-","",Sys.time())),jsonlite::fromJSON("https://data.sfgov.org/resource/favi-qct6.json"))
-
-#San Francisco Zip Code Date
 write.csv(file=paste0("sfNzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),jsonlite::fromJSON("https://data.sfgov.org/resource/favi-qct6.json"))
 
-#
+#Jefferson County Zip Code Data
 write.csv(file=paste0("JeffcozipB",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),jsonlite::fromJSON("https://services6.arcgis.com/Bd4MACzvEukoZ9mR/ArcGIS/rest/services/Jefferson_County_Zipcodes_Positive_Covid_19/FeatureServer/0/query?where=FID%3E0&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=*&returnGeometry=false&returnCentroid=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=")[["features"]][["attributes"]])
 
 #NYC zip code data
