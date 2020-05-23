@@ -1,0 +1,1590 @@
+"","OBJECTID","PO_NAME","ZIP_CODE","Negative","Positive","Probable","Additional_Tracking","Positive_Redacted","Negative_Redacted"
+"1",227,"Alum Bank","15521",26,-1,0,NA,NA,NA
+"2",228,"Bedford","15522",132,-1,-1,NA,NA,NA
+"3",229,"Berlin","15530",84,-1,-1,NA,NA,NA
+"4",230,"Boswell","15531",62,0,0,NA,NA,NA
+"5",231,"Breezewood","15533",15,0,0,NA,NA,NA
+"6",232,"Buffalo Mills","15534",-1,0,0,NA,NA,NA
+"7",233,"Clearville","15535",21,0,0,NA,NA,NA
+"8",234,"Crystal Spring","15536",10,-1,0,NA,NA,NA
+"9",235,"Everett","15537",104,-1,0,NA,NA,NA
+"10",236,"Fairhope","15538",10,0,0,NA,NA,NA
+"11",237,"Fishertown","15539",7,0,0,NA,NA,NA
+"12",239,"Friedens","15541",59,-1,-1,NA,NA,NA
+"13",240,"Garrett","15542",17,0,0,NA,NA,NA
+"14",241,"Hyndman","15545",11,-1,0,NA,NA,NA
+"15",242,"Jenners","15546",8,0,0,NA,NA,NA
+"16",243,"Manns Choice","15550",20,0,0,NA,NA,NA
+"17",245,"Meyersdale","15552",103,-1,-1,NA,NA,NA
+"18",246,"New Paris","15554",31,-1,-1,NA,NA,NA
+"19",247,"Quecreek","15555",0,0,0,NA,NA,NA
+"20",249,"Salisbury","15558",21,0,0,NA,NA,NA
+"21",250,"Schellsburg","15559",20,-1,0,NA,NA,NA
+"22",251,"Springs","15562",-1,0,0,NA,NA,NA
+"23",252,"Stoystown","15563",47,-1,-1,NA,NA,NA
+"24",253,"Wellersburg","15564",-1,0,0,NA,NA,NA
+"25",309,"Indiana","15705",-1,0,0,NA,NA,NA
+"26",310,"Anita","15711",-1,0,0,NA,NA,NA
+"27",312,"Northern Cambria","15714",121,0,0,NA,NA,NA
+"28",313,"Black Lick","15716",-1,-1,0,NA,NA,NA
+"29",315,"Brush Valley","15720",-1,0,0,NA,NA,NA
+"30",316,"Burnside","15721",-1,0,0,NA,NA,NA
+"31",317,"Carrolltown","15722",40,0,0,NA,NA,NA
+"32",318,"Cherry Tree","15724",24,-1,0,NA,NA,NA
+"33",320,"Clymer","15728",15,0,-1,NA,NA,NA
+"34",321,"Commodore","15729",7,0,0,NA,NA,NA
+"35",322,"Coolspring","15730",0,0,0,NA,NA,NA
+"36",324,"Ernest","15739",0,0,0,NA,NA,NA
+"37",325,"Glen Campbell","15742",-1,-1,0,NA,NA,NA
+"38",326,"Hamilton","15744",0,0,0,NA,NA,NA
+"39",329,"Josephine","15750",-1,-1,0,NA,NA,NA
+"40",330,"La Jose","15753",-1,0,0,NA,NA,NA
+"41",331,"Mahaffey","15757",-1,0,0,NA,NA,NA
+"42",332,"Marchand","15758",0,0,0,NA,NA,NA
+"43",333,"Marion Center","15759",13,-1,0,NA,NA,NA
+"44",334,"Marsteller","15760",-1,-1,0,NA,NA,NA
+"45",335,"Nicktown","15762",19,0,0,NA,NA,NA
+"46",336,"Northpoint","15763",0,0,0,NA,NA,NA
+"47",337,"Oliveburg","15764",-1,0,0,NA,NA,NA
+"48",338,"Penn Run","15765",6,-1,0,NA,NA,NA
+"49",339,"Punxsutawney","15767",107,-1,0,NA,NA,NA
+"50",340,"Ringgold","15770",-1,0,0,NA,NA,NA
+"51",341,"Rochester Mills","15771",-1,-1,0,NA,NA,NA
+"52",342,"Rossiter","15772",12,-1,-1,NA,NA,NA
+"53",343,"Saint Benedict","15773",5,0,0,NA,NA,NA
+"54",345,"Spangler","15775",0,0,0,NA,NA,NA
+"55",346,"Sprankle Mills","15776",-1,0,0,NA,NA,NA
+"56",347,"Starford","15777",-1,0,0,NA,NA,NA
+"57",348,"Timblin","15778",-1,0,0,NA,NA,NA
+"58",349,"Valier","15780",-1,0,0,NA,NA,NA
+"59",350,"Worthville","15784",-1,0,0,NA,NA,NA
+"60",351,"Du Bois","15801",213,-1,-1,NA,NA,NA
+"61",352,"Benezett","15821",-1,0,0,NA,NA,NA
+"62",353,"Brockport","15823",9,0,0,NA,NA,NA
+"63",354,"Brockway","15824",46,0,0,NA,NA,NA
+"64",355,"Brookville","15825",119,-1,0,NA,NA,NA
+"65",356,"Byrnedale","15827",-1,0,0,NA,NA,NA
+"66",357,"Clarington","15828",-1,-1,0,NA,NA,NA
+"67",358,"Corsica","15829",17,0,0,NA,NA,NA
+"68",359,"Driftwood","15832",7,0,0,NA,NA,NA
+"69",360,"Emporium","15834",107,-1,0,NA,NA,NA
+"70",361,"Falls Creek","15840",21,0,0,NA,NA,NA
+"71",362,"Johnsonburg","15845",27,0,0,NA,NA,NA
+"72",363,"Kersey","15846",24,-1,0,NA,NA,NA
+"73",364,"Luthersburg","15848",9,0,0,NA,NA,NA
+"74",365,"Penfield","15849",9,0,0,NA,NA,NA
+"75",366,"Reynoldsville","15851",57,-1,-1,NA,NA,NA
+"76",367,"Ridgway","15853",80,-1,-1,NA,NA,NA
+"77",368,"Rockton","15856",6,-1,0,NA,NA,NA
+"78",369,"Saint Marys","15857",105,-1,-1,NA,NA,NA
+"79",370,"Sigel","15860",13,0,0,NA,NA,NA
+"80",371,"Sinnamahoning","15861",-1,0,0,NA,NA,NA
+"81",372,"Summerville","15864",25,-1,0,NA,NA,NA
+"82",373,"Sykesville","15865",14,0,0,NA,NA,NA
+"83",374,"Troutville","15866",-1,0,0,NA,NA,NA
+"84",375,"Weedville","15868",16,0,0,NA,NA,NA
+"85",376,"Wilcox","15870",6,0,0,NA,NA,NA
+"86",377,"Johnstown","15901",135,-1,0,NA,NA,NA
+"87",378,"Johnstown","15902",328,-1,-1,NA,NA,NA
+"88",379,"Johnstown","15904",368,-1,-1,NA,NA,NA
+"89",380,"Johnstown","15905",488,-1,-1,NA,NA,NA
+"90",381,"Johnstown","15906",254,-1,-1,NA,NA,NA
+"91",382,"Johnstown","15909",116,-1,0,NA,NA,NA
+"92",383,"Armagh","15920",21,-1,0,NA,NA,NA
+"93",385,"Cairnbrook","15924",25,-1,0,NA,NA,NA
+"94",386,"Central City","15926",56,-1,0,NA,NA,NA
+"95",387,"Colver","15927",20,-1,-1,NA,NA,NA
+"96",388,"Davidsville","15928",39,0,0,NA,NA,NA
+"97",389,"Ebensburg","15931",187,-1,0,NA,NA,NA
+"98",390,"Elton","15934",7,-1,0,NA,NA,NA
+"99",391,"Hollsopple","15935",52,0,-1,NA,NA,NA
+"100",392,"Hooversville","15936",24,0,0,NA,NA,NA
+"101",393,"Lilly","15938",52,0,-1,NA,NA,NA
+"102",394,"Loretto","15940",24,0,0,NA,NA,NA
+"103",395,"Mineral Point","15942",43,-1,0,NA,NA,NA
+"104",396,"Nanty Glo","15943",104,-1,0,NA,NA,NA
+"105",397,"New Florence","15944",53,-1,0,NA,NA,NA
+"106",398,"Parkhill","15945",-1,0,0,NA,NA,NA
+"107",399,"Portage","15946",148,-1,-1,NA,NA,NA
+"108",400,"Robinson","15949",6,0,0,NA,NA,NA
+"109",401,"Saint Michael","15951",16,-1,0,NA,NA,NA
+"110",402,"Salix","15952",28,0,0,NA,NA,NA
+"111",403,"Seanor","15953",0,0,0,NA,NA,NA
+"112",404,"Seward","15954",39,-1,0,NA,NA,NA
+"113",405,"Sidman","15955",32,0,0,NA,NA,NA
+"114",406,"South Fork","15956",63,0,0,NA,NA,NA
+"115",407,"Strongstown","15957",6,0,0,NA,NA,NA
+"116",408,"Summerhill","15958",32,-1,0,NA,NA,NA
+"117",409,"Twin Rocks","15960",14,0,0,NA,NA,NA
+"118",410,"Vintondale","15961",25,0,0,NA,NA,NA
+"119",411,"Windber","15963",245,0,0,NA,NA,NA
+"120",414,"Boyers","16020",12,-1,0,NA,NA,NA
+"121",415,"Bruin","16022",6,0,0,NA,NA,NA
+"122",417,"Chicora","16025",79,-1,0,NA,NA,NA
+"123",419,"East Brady","16028",22,0,0,NA,NA,NA
+"124",420,"Eau Claire","16030",-1,0,0,NA,NA,NA
+"125",423,"Foxburg","16036",0,0,0,NA,NA,NA
+"126",425,"Harrisville","16038",38,-1,0,NA,NA,NA
+"127",426,"Hilliards","16040",9,0,0,NA,NA,NA
+"128",427,"Karns City","16041",23,-1,0,NA,NA,NA
+"129",430,"Parker","16049",27,11,0,NA,NA,NA
+"130",431,"Petrolia","16050",20,0,0,NA,NA,NA
+"131",432,"Portersville","16051",34,-1,0,NA,NA,NA
+"132",437,"Slippery Rock","16057",126,6,-1,NA,NA,NA
+"133",439,"West Sunbury","16061",44,-1,-1,NA,NA,NA
+"134",442,"New Castle","16101",424,23,0,NA,NA,NA
+"135",443,"New Castle","16102",62,-1,-1,NA,NA,NA
+"136",444,"New Castle","16105",175,13,0,NA,NA,NA
+"137",445,"Adamsville","16110",-1,0,0,NA,NA,NA
+"138",446,"Atlantic","16111",7,0,0,NA,NA,NA
+"139",447,"Bessemer","16112",18,-1,0,NA,NA,NA
+"140",448,"Clarks Mills","16114",-1,0,0,NA,NA,NA
+"141",450,"Edinburg","16116",31,-1,-1,NA,NA,NA
+"142",453,"Farrell","16121",61,26,-1,NA,NA,NA
+"143",455,"Fredonia","16124",7,-1,0,NA,NA,NA
+"144",456,"Greenville","16125",273,-1,0,NA,NA,NA
+"145",457,"Grove City","16127",75,9,-1,NA,NA,NA
+"146",458,"Hadley","16130",14,0,0,NA,NA,NA
+"147",459,"Hartstown","16131",-1,-1,0,NA,NA,NA
+"148",460,"Jackson Center","16133",12,-1,0,NA,NA,NA
+"149",461,"Jamestown","16134",30,0,0,NA,NA,NA
+"150",463,"Mercer","16137",108,8,-1,NA,NA,NA
+"151",465,"New Wilmington","16142",110,-1,0,NA,NA,NA
+"152",466,"Pulaski","16143",25,-1,0,NA,NA,NA
+"153",467,"Sandy Lake","16145",16,0,0,NA,NA,NA
+"154",468,"Sharon","16146",123,19,-1,NA,NA,NA
+"155",469,"Hermitage","16148",159,13,-1,NA,NA,NA
+"156",470,"Sharpsville","16150",66,5,0,NA,NA,NA
+"157",471,"Stoneboro","16153",11,0,0,NA,NA,NA
+"158",472,"Transfer","16154",25,0,0,NA,NA,NA
+"159",473,"Volant","16156",22,-1,0,NA,NA,NA
+"160",475,"West Middlesex","16159",44,-1,0,NA,NA,NA
+"161",476,"New Wilmington","16172",0,0,0,NA,NA,NA
+"162",480,"Callensburg","16213",0,0,0,NA,NA,NA
+"163",481,"Clarion","16214",73,-1,0,NA,NA,NA
+"164",482,"Cooksburg","16217",-1,0,0,NA,NA,NA
+"165",483,"Cowansville","16218",15,-1,0,NA,NA,NA
+"166",485,"Fairmount City","16224",12,0,0,NA,NA,NA
+"167",486,"Fisher","16225",0,0,0,NA,NA,NA
+"168",490,"Knox","16232",44,-1,0,NA,NA,NA
+"169",491,"Leeper","16233",10,-1,0,NA,NA,NA
+"170",492,"Limestone","16234",-1,0,0,NA,NA,NA
+"171",493,"Lucinda","16235",7,0,0,NA,NA,NA
+"172",495,"Marienville","16239",41,-1,-1,NA,NA,NA
+"173",496,"Mayport","16240",14,-1,0,NA,NA,NA
+"174",497,"New Bethlehem","16242",72,-1,0,NA,NA,NA
+"175",498,"Rimersburg","16248",30,-1,0,NA,NA,NA
+"176",500,"Seminole","16253",-1,0,0,NA,NA,NA
+"177",501,"Shippenville","16254",36,-1,0,NA,NA,NA
+"178",502,"Sligo","16255",15,-1,0,NA,NA,NA
+"179",504,"Strattanville","16258",21,-1,0,NA,NA,NA
+"180",506,"Vowinckel","16260",-1,0,0,NA,NA,NA
+"181",509,"Oil City","16301",104,0,0,NA,NA,NA
+"182",510,"Carlton","16311",-1,0,0,NA,NA,NA
+"183",511,"Clarendon","16313",16,0,0,NA,NA,NA
+"184",512,"Cochranton","16314",31,-1,-1,NA,NA,NA
+"185",513,"Conneaut Lake","16316",26,0,0,NA,NA,NA
+"186",514,"Cooperstown","16317",13,-1,0,NA,NA,NA
+"187",515,"Cranberry","16319",15,0,0,NA,NA,NA
+"188",516,"East Hickory","16321",-1,0,0,NA,NA,NA
+"189",517,"Franklin","16323",107,-1,-1,NA,NA,NA
+"190",518,"Fryburg","16326",-1,-1,0,NA,NA,NA
+"191",519,"Guys Mills","16327",11,-1,0,NA,NA,NA
+"192",520,"Irvine","16329",-1,0,0,NA,NA,NA
+"193",521,"Kossuth","16331",0,0,0,NA,NA,NA
+"194",522,"Lickingville","16332",-1,0,0,NA,NA,NA
+"195",523,"Ludlow","16333",8,0,0,NA,NA,NA
+"196",524,"Marble","16334",-1,-1,0,NA,NA,NA
+"197",525,"Meadville","16335",170,-1,-1,NA,NA,NA
+"198",526,"Pittsfield","16340",14,0,0,NA,NA,NA
+"199",527,"Pleasantville","16341",17,0,0,NA,NA,NA
+"200",528,"Polk","16342",17,0,0,NA,NA,NA
+"201",529,"Russell","16345",21,0,0,NA,NA,NA
+"202",530,"Seneca","16346",18,-1,0,NA,NA,NA
+"203",531,"Sheffield","16347",18,0,0,NA,NA,NA
+"204",532,"Sugar Grove","16350",9,0,0,NA,NA,NA
+"205",533,"Tidioute","16351",14,0,0,NA,NA,NA
+"206",534,"Tionesta","16353",16,-1,0,NA,NA,NA
+"207",535,"Titusville","16354",81,-1,0,NA,NA,NA
+"208",536,"Townville","16360",7,0,0,NA,NA,NA
+"209",537,"Utica","16362",6,0,0,NA,NA,NA
+"210",538,"Venus","16364",10,0,0,NA,NA,NA
+"211",539,"Warren","16365",149,-1,0,NA,NA,NA
+"212",540,"Youngsville","16371",33,0,0,NA,NA,NA
+"213",541,"Clintonville","16372",5,0,0,NA,NA,NA
+"214",542,"Emlenton","16373",20,-1,0,NA,NA,NA
+"215",543,"Kennerdell","16374",13,0,0,NA,NA,NA
+"216",544,"Albion","16401",40,0,0,NA,NA,NA
+"217",545,"Bear Lake","16402",-1,0,0,NA,NA,NA
+"218",546,"Cambridge Springs","16403",127,0,0,NA,NA,NA
+"219",547,"Centerville","16404",17,0,0,NA,NA,NA
+"220",548,"Columbus","16405",-1,0,0,NA,NA,NA
+"221",549,"Conneautville","16406",26,-1,0,NA,NA,NA
+"222",550,"Corry","16407",109,-1,0,NA,NA,NA
+"223",551,"Cranesville","16410",18,0,0,NA,NA,NA
+"224",552,"East Springfield","16411",15,0,0,NA,NA,NA
+"225",553,"Edinboro","16412",76,5,-1,NA,NA,NA
+"226",554,"Fairview","16415",119,-1,-1,NA,NA,NA
+"227",555,"Girard","16417",98,5,0,NA,NA,NA
+"228",556,"Grand Valley","16420",6,0,0,NA,NA,NA
+"229",557,"Harborcreek","16421",27,0,0,NA,NA,NA
+"230",558,"Lake City","16423",43,-1,0,NA,NA,NA
+"231",559,"Linesville","16424",17,-1,0,NA,NA,NA
+"232",560,"Mc Kean","16426",38,0,0,NA,NA,NA
+"233",561,"North East","16428",117,9,0,NA,NA,NA
+"234",562,"North Springfield","16430",0,0,0,NA,NA,NA
+"235",563,"Saegertown","16433",66,0,0,NA,NA,NA
+"236",564,"Spartansburg","16434",18,-1,0,NA,NA,NA
+"237",565,"Springboro","16435",12,0,0,NA,NA,NA
+"238",566,"Spring Creek","16436",5,0,0,NA,NA,NA
+"239",567,"Union City","16438",78,-1,-1,NA,NA,NA
+"240",568,"Venango","16440",-1,-1,-1,NA,NA,NA
+"241",569,"Waterford","16441",89,-1,0,NA,NA,NA
+"242",570,"Wattsburg","16442",32,0,0,NA,NA,NA
+"243",571,"West Springfield","16443",15,0,0,NA,NA,NA
+"244",572,"Edinboro","16444",0,0,0,NA,NA,NA
+"245",573,"Erie","16501",32,-1,0,NA,NA,NA
+"246",574,"Erie","16502",215,7,5,NA,NA,NA
+"247",575,"Erie","16503",184,24,6,NA,NA,NA
+"248",576,"Erie","16504",250,17,-1,NA,NA,NA
+"249",577,"Erie","16505",218,6,-1,NA,NA,NA
+"250",578,"Erie","16506",300,10,-1,NA,NA,NA
+"251",579,"Erie","16507",119,5,-1,NA,NA,NA
+"252",580,"Erie","16508",249,8,-1,NA,NA,NA
+"253",581,"Erie","16509",393,14,-1,NA,NA,NA
+"254",582,"Erie","16510",320,22,-1,NA,NA,NA
+"255",583,"Erie","16511",161,13,-1,NA,NA,NA
+"256",584,"Erie","16565",-1,0,0,NA,NA,NA
+"257",585,"Altoona","16601",445,15,-1,NA,NA,NA
+"258",586,"Altoona","16602",422,11,-1,NA,NA,NA
+"259",587,"Alexandria","16611",24,-1,0,NA,NA,NA
+"260",588,"Ashville","16613",22,0,0,NA,NA,NA
+"261",589,"Beccaria","16616",-1,-1,-1,NA,NA,NA
+"262",590,"Bellwood","16617",36,-1,0,NA,NA,NA
+"263",591,"Brisbin","16620",-1,0,0,NA,NA,NA
+"264",592,"Broad Top","16621",12,0,0,NA,NA,NA
+"265",593,"Calvin","16622",-1,-1,0,NA,NA,NA
+"266",594,"Cassville","16623",14,0,0,NA,NA,NA
+"267",595,"Claysburg","16625",43,0,0,NA,NA,NA
+"268",596,"Coalport","16627",28,-1,0,NA,NA,NA
+"269",597,"Cresson","16630",62,-1,0,NA,NA,NA
+"270",598,"Dudley","16634",5,0,0,NA,NA,NA
+"271",599,"Duncansville","16635",161,-1,0,NA,NA,NA
+"272",600,"Dysart","16636",9,-1,0,NA,NA,NA
+"273",601,"East Freedom","16637",33,-1,0,NA,NA,NA
+"274",602,"Fallentimber","16639",9,0,0,NA,NA,NA
+"275",603,"Flinton","16640",14,-1,0,NA,NA,NA
+"276",604,"Gallitzin","16641",37,0,0,NA,NA,NA
+"277",605,"Glen Hope","16645",-1,0,0,NA,NA,NA
+"278",606,"Hastings","16646",63,-1,0,NA,NA,NA
+"279",607,"Hesston","16647",5,0,0,NA,NA,NA
+"280",608,"Hollidaysburg","16648",227,-1,0,NA,NA,NA
+"281",609,"Hopewell","16650",34,-1,0,NA,NA,NA
+"282",610,"Houtzdale","16651",32,-1,-1,NA,NA,NA
+"283",611,"Huntingdon","16652",287,34,-1,NA,NA,NA
+"284",612,"Imler","16655",18,-1,0,NA,NA,NA
+"285",613,"Irvona","16656",17,0,0,NA,NA,NA
+"286",614,"James Creek","16657",20,-1,0,NA,NA,NA
+"287",615,"Loysburg","16659",-1,0,0,NA,NA,NA
+"288",616,"Madera","16661",8,0,0,NA,NA,NA
+"289",617,"Martinsburg","16662",66,0,0,NA,NA,NA
+"290",618,"New Enterprise","16664",15,-1,0,NA,NA,NA
+"291",619,"Osceola Mills","16666",33,-1,0,NA,NA,NA
+"292",620,"Osterburg","16667",15,6,0,NA,NA,NA
+"293",621,"Patton","16668",53,-1,-1,NA,NA,NA
+"294",622,"Petersburg","16669",23,-1,-1,NA,NA,NA
+"295",623,"Queen","16670",5,0,0,NA,NA,NA
+"296",624,"Ramey","16671",-1,0,0,NA,NA,NA
+"297",625,"Roaring Spring","16673",57,0,0,NA,NA,NA
+"298",626,"Robertsdale","16674",7,0,0,NA,NA,NA
+"299",627,"Saxton","16678",33,-1,0,NA,NA,NA
+"300",628,"Six Mile Run","16679",7,0,0,NA,NA,NA
+"301",629,"Smithmill","16680",5,0,0,NA,NA,NA
+"302",630,"Sproul","16682",-1,0,0,NA,NA,NA
+"303",631,"Spruce Creek","16683",5,0,0,NA,NA,NA
+"304",632,"Todd","16685",0,0,0,NA,NA,NA
+"305",633,"Tyrone","16686",189,6,0,NA,NA,NA
+"306",634,"Waterfall","16689",-1,-1,0,NA,NA,NA
+"307",635,"Wells Tannery","16691",-1,0,0,NA,NA,NA
+"308",636,"Westover","16692",20,-1,0,NA,NA,NA
+"309",637,"Williamsburg","16693",58,-1,0,NA,NA,NA
+"310",638,"Woodbury","16695",10,0,0,NA,NA,NA
+"311",639,"Bradford","16701",234,0,-1,NA,NA,NA
+"312",640,"Austin","16720",11,0,0,NA,NA,NA
+"313",641,"Crosby","16724",0,0,0,NA,NA,NA
+"314",642,"Cyclone","16726",-1,0,0,NA,NA,NA
+"315",643,"Derrick City","16727",5,0,0,NA,NA,NA
+"316",644,"Duke Center","16729",8,0,-1,NA,NA,NA
+"317",645,"Eldred","16731",32,0,0,NA,NA,NA
+"318",646,"Gifford","16732",10,0,0,NA,NA,NA
+"319",647,"James City","16734",-1,0,0,NA,NA,NA
+"320",648,"Kane","16735",42,7,-1,NA,NA,NA
+"321",649,"Lewis Run","16738",12,0,0,NA,NA,NA
+"322",650,"Mount Jewett","16740",11,0,0,NA,NA,NA
+"323",651,"Port Allegany","16743",38,0,0,NA,NA,NA
+"324",652,"Rew","16744",6,0,0,NA,NA,NA
+"325",653,"Rixford","16745",8,0,0,NA,NA,NA
+"326",654,"Roulette","16746",7,-1,0,NA,NA,NA
+"327",655,"Shinglehouse","16748",22,0,0,NA,NA,NA
+"328",656,"Smethport","16749",48,0,0,NA,NA,NA
+"329",657,"Turtlepoint","16750",0,0,0,NA,NA,NA
+"330",658,"State College","16801",388,31,-1,NA,NA,NA
+"331",659,"University Park","16802",14,0,0,NA,NA,NA
+"332",660,"State College","16803",232,21,0,NA,NA,NA
+"333",661,"Aaronsburg","16820",13,0,0,NA,NA,NA
+"334",662,"Allport","16821",5,0,0,NA,NA,NA
+"335",663,"Beech Creek","16822",31,-1,0,NA,NA,NA
+"336",664,"Bellefonte","16823",498,39,-1,NA,NA,NA
+"337",665,"Boalsburg","16827",67,9,0,NA,NA,NA
+"338",666,"Centre Hall","16828",51,-1,-1,NA,NA,NA
+"339",667,"Clarence","16829",11,0,0,NA,NA,NA
+"340",668,"Clearfield","16830",164,6,0,NA,NA,NA
+"341",669,"Coburn","16832",8,0,0,NA,NA,NA
+"342",670,"Curwensville","16833",46,0,0,NA,NA,NA
+"343",671,"Frenchville","16836",10,0,0,NA,NA,NA
+"344",672,"Glen Richey","16837",-1,0,0,NA,NA,NA
+"345",673,"Grampian","16838",23,0,0,NA,NA,NA
+"346",674,"Grassflat","16839",6,-1,0,NA,NA,NA
+"347",675,"Hawk Run","16840",-1,0,0,NA,NA,NA
+"348",676,"Howard","16841",54,-1,0,NA,NA,NA
+"349",677,"Julian","16844",36,-1,0,NA,NA,NA
+"350",678,"Karthaus","16845",54,0,0,NA,NA,NA
+"351",679,"Lecontes Mills","16850",-1,0,0,NA,NA,NA
+"352",680,"Madisonburg","16852",-1,-1,0,NA,NA,NA
+"353",681,"Millheim","16854",15,0,0,NA,NA,NA
+"354",682,"Morrisdale","16858",42,-1,0,NA,NA,NA
+"355",683,"Moshannon","16859",13,0,0,NA,NA,NA
+"356",684,"Munson","16860",-1,-1,-1,NA,NA,NA
+"357",685,"New Millport","16861",-1,0,0,NA,NA,NA
+"358",686,"Olanta","16863",8,0,0,NA,NA,NA
+"359",687,"Orviston","16864",-1,0,0,NA,NA,NA
+"360",688,"Pennsylvania Furnace","16865",20,0,0,NA,NA,NA
+"361",689,"Philipsburg","16866",98,-1,0,NA,NA,NA
+"362",690,"Port Matilda","16870",85,8,0,NA,NA,NA
+"363",691,"Pottersdale","16871",-1,0,0,NA,NA,NA
+"364",692,"Rebersburg","16872",9,0,0,NA,NA,NA
+"365",693,"Snow Shoe","16874",22,0,0,NA,NA,NA
+"366",694,"Spring Mills","16875",30,0,0,NA,NA,NA
+"367",695,"Wallaceton","16876",-1,0,0,NA,NA,NA
+"368",696,"Warriors Mark","16877",14,0,0,NA,NA,NA
+"369",697,"West Decatur","16878",22,-1,0,NA,NA,NA
+"370",698,"Winburne","16879",-1,0,0,NA,NA,NA
+"371",699,"Woodland","16881",18,0,0,NA,NA,NA
+"372",700,"Woodward","16882",-1,0,0,NA,NA,NA
+"373",701,"Wellsboro","16901",108,-1,0,NA,NA,NA
+"374",702,"Blossburg","16912",22,0,0,NA,NA,NA
+"375",703,"Columbia Cross Roads","16914",41,-1,0,NA,NA,NA
+"376",704,"Coudersport","16915",34,-1,0,NA,NA,NA
+"377",705,"Covington","16917",12,-1,0,NA,NA,NA
+"378",706,"Elkland","16920",25,-1,0,NA,NA,NA
+"379",707,"Gaines","16921",-1,0,0,NA,NA,NA
+"380",708,"Galeton","16922",15,0,0,NA,NA,NA
+"381",709,"Genesee","16923",6,0,0,NA,NA,NA
+"382",710,"Gillett","16925",47,-1,0,NA,NA,NA
+"383",711,"Granville Summit","16926",5,0,0,NA,NA,NA
+"384",712,"Harrison Valley","16927",-1,0,0,NA,NA,NA
+"385",713,"Knoxville","16928",12,0,0,NA,NA,NA
+"386",714,"Lawrenceville","16929",20,-1,0,NA,NA,NA
+"387",715,"Liberty","16930",6,-1,0,NA,NA,NA
+"388",716,"Mainesburg","16932",7,0,0,NA,NA,NA
+"389",717,"Mansfield","16933",67,-1,-1,NA,NA,NA
+"390",718,"Middlebury Center","16935",10,0,0,NA,NA,NA
+"391",719,"Millerton","16936",23,-1,0,NA,NA,NA
+"392",720,"Mills","16937",-1,0,0,NA,NA,NA
+"393",721,"Morris","16938",7,0,0,NA,NA,NA
+"394",722,"Morris Run","16939",-1,0,0,NA,NA,NA
+"395",723,"Nelson","16940",-1,0,0,NA,NA,NA
+"396",724,"Genesee","16941",-1,0,0,NA,NA,NA
+"397",725,"Osceola","16942",12,0,0,NA,NA,NA
+"398",726,"Sabinsville","16943",-1,0,0,NA,NA,NA
+"399",727,"Tioga","16946",21,-1,0,NA,NA,NA
+"400",728,"Troy","16947",65,-1,0,NA,NA,NA
+"401",729,"Ulysses","16948",14,0,0,NA,NA,NA
+"402",730,"Westfield","16950",44,0,0,NA,NA,NA
+"403",731,"Allensville","17002",8,0,0,NA,NA,NA
+"404",732,"Annville","17003",187,27,5,NA,NA,NA
+"405",733,"Belleville","17004",33,-1,0,NA,NA,NA
+"406",734,"Berrysburg","17005",-1,-1,0,NA,NA,NA
+"407",735,"Blain","17006",8,0,0,NA,NA,NA
+"408",736,"Boiling Springs","17007",66,-1,-1,NA,NA,NA
+"409",737,"Burnham","17009",46,-1,0,NA,NA,NA
+"410",738,"Camp Hill","17011",520,126,-1,NA,NA,NA
+"411",739,"Carlisle","17013",581,82,-1,NA,NA,NA
+"412",740,"Cocolamus","17014",-1,0,0,NA,NA,NA
+"413",741,"Carlisle","17015",258,28,-1,NA,NA,NA
+"414",742,"Dalmatia","17017",36,-1,-1,NA,NA,NA
+"415",743,"Dauphin","17018",65,7,0,NA,NA,NA
+"416",744,"Dillsburg","17019",222,21,0,NA,NA,NA
+"417",745,"Duncannon","17020",120,-1,0,NA,NA,NA
+"418",746,"East Waterford","17021",11,-1,0,NA,NA,NA
+"419",747,"Elizabethtown","17022",574,82,-1,NA,NA,NA
+"420",748,"Elizabethville","17023",55,14,0,NA,NA,NA
+"421",749,"Elliottsburg","17024",22,-1,-1,NA,NA,NA
+"422",750,"Enola","17025",232,18,-1,NA,NA,NA
+"423",751,"Fredericksburg","17026",60,14,-1,NA,NA,NA
+"424",752,"Grantville","17028",61,-1,0,NA,NA,NA
+"425",753,"Granville","17029",10,0,0,NA,NA,NA
+"426",754,"Gratz","17030",14,-1,0,NA,NA,NA
+"427",755,"Halifax","17032",112,-1,0,NA,NA,NA
+"428",756,"Hershey","17033",302,53,-1,NA,NA,NA
+"429",757,"Highspire","17034",33,-1,0,NA,NA,NA
+"430",758,"Honey Grove","17035",15,-1,-1,NA,NA,NA
+"431",759,"Hummelstown","17036",448,44,-1,NA,NA,NA
+"432",760,"Ickesburg","17037",19,-1,0,NA,NA,NA
+"433",761,"Jonestown","17038",163,24,-1,NA,NA,NA
+"434",762,"Landisburg","17040",29,-1,0,NA,NA,NA
+"435",763,"Lebanon","17042",1207,276,6,NA,NA,NA
+"436",764,"Lemoyne","17043",133,7,0,NA,NA,NA
+"437",765,"Lewistown","17044",356,30,-1,NA,NA,NA
+"438",766,"Liverpool","17045",38,6,0,NA,NA,NA
+"439",767,"Lebanon","17046",1132,356,7,NA,NA,NA
+"440",768,"Loysville","17047",24,-1,0,NA,NA,NA
+"441",769,"Lykens","17048",62,11,0,NA,NA,NA
+"442",770,"Mc Alisterville","17049",36,6,0,NA,NA,NA
+"443",771,"Mechanicsburg","17050",456,57,6,NA,NA,NA
+"444",772,"Mc Veytown","17051",53,5,-1,NA,NA,NA
+"445",773,"Mapleton Depot","17052",23,-1,0,NA,NA,NA
+"446",774,"Marysville","17053",82,-1,0,NA,NA,NA
+"447",775,"Mechanicsburg","17055",553,57,-1,NA,NA,NA
+"448",776,"Middletown","17057",333,36,-1,NA,NA,NA
+"449",777,"Mifflin","17058",31,19,-1,NA,NA,NA
+"450",778,"Mifflintown","17059",114,35,-1,NA,NA,NA
+"451",779,"Mill Creek","17060",16,-1,0,NA,NA,NA
+"452",780,"Millersburg","17061",99,55,-1,NA,NA,NA
+"453",781,"Millerstown","17062",33,-1,-1,NA,NA,NA
+"454",782,"Milroy","17063",37,-1,0,NA,NA,NA
+"455",783,"Mount Gretna","17064",21,-1,0,NA,NA,NA
+"456",784,"Mount Holly Springs","17065",49,6,0,NA,NA,NA
+"457",785,"Mount Union","17066",99,17,-1,NA,NA,NA
+"458",786,"Myerstown","17067",335,101,-1,NA,NA,NA
+"459",787,"New Bloomfield","17068",51,-1,0,NA,NA,NA
+"460",788,"New Cumberland","17070",283,24,-1,NA,NA,NA
+"461",789,"New Germantown","17071",0,0,0,NA,NA,NA
+"462",790,"Newmanstown","17073",100,16,0,NA,NA,NA
+"463",791,"Newport","17074",95,5,-1,NA,NA,NA
+"464",792,"Oakland Mills","17076",-1,0,0,NA,NA,NA
+"465",793,"Palmyra","17078",468,35,8,NA,NA,NA
+"466",794,"Pillow","17080",7,-1,0,NA,NA,NA
+"467",795,"Port Royal","17082",35,18,-1,NA,NA,NA
+"468",796,"Reedsville","17084",53,-1,0,NA,NA,NA
+"469",797,"Richfield","17086",17,-1,0,NA,NA,NA
+"470",798,"Richland","17087",46,5,0,NA,NA,NA
+"471",799,"Shermans Dale","17090",61,-1,-1,NA,NA,NA
+"472",800,"Thompsontown","17094",29,5,0,NA,NA,NA
+"473",801,"Wiconisco","17097",9,-1,0,NA,NA,NA
+"474",802,"Williamstown","17098",44,-1,-1,NA,NA,NA
+"475",803,"Yeagertown","17099",20,0,0,NA,NA,NA
+"476",804,"Harrisburg","17101",121,17,-1,NA,NA,NA
+"477",805,"Harrisburg","17102",132,32,0,NA,NA,NA
+"478",806,"Harrisburg","17103",164,42,-1,NA,NA,NA
+"479",807,"Harrisburg","17104",268,118,-1,NA,NA,NA
+"480",808,"Harrisburg","17109",392,85,-1,NA,NA,NA
+"481",809,"Harrisburg","17110",509,106,-1,NA,NA,NA
+"482",810,"Harrisburg","17111",1660,295,5,NA,NA,NA
+"483",811,"Harrisburg","17112",553,40,-1,NA,NA,NA
+"484",812,"Harrisburg","17113",195,24,-1,NA,NA,NA
+"485",813,"Harrisburg","17120",0,0,0,NA,NA,NA
+"486",814,"Chambersburg","17201",613,380,13,NA,NA,NA
+"487",815,"Chambersburg","17202",367,93,5,NA,NA,NA
+"488",816,"Artemas","17211",8,-1,0,NA,NA,NA
+"489",817,"Big Cove Tannery","17212",14,-1,0,NA,NA,NA
+"490",818,"Blairs Mills","17213",6,-1,0,NA,NA,NA
+"491",819,"Blue Ridge Summit","17214",22,-1,0,NA,NA,NA
+"492",820,"Burnt Cabins","17215",-1,0,0,NA,NA,NA
+"493",821,"Concord","17217",-1,-1,0,NA,NA,NA
+"494",822,"Doylesburg","17219",-1,0,0,NA,NA,NA
+"495",823,"Dry Run","17220",-1,0,0,NA,NA,NA
+"496",824,"Fannettsburg","17221",10,-1,0,NA,NA,NA
+"497",825,"Fayetteville","17222",186,50,0,NA,NA,NA
+"498",826,"Fort Littleton","17223",-1,-1,0,NA,NA,NA
+"499",827,"Fort Loudon","17224",22,8,0,NA,NA,NA
+"500",828,"Greencastle","17225",274,29,-1,NA,NA,NA
+"501",829,"Harrisonville","17228",9,0,0,NA,NA,NA
+"502",830,"Hustontown","17229",11,0,0,NA,NA,NA
+"503",831,"Lurgan","17232",-1,0,0,NA,NA,NA
+"504",832,"Mc Connellsburg","17233",73,6,-1,NA,NA,NA
+"505",833,"Mercersburg","17236",86,16,-1,NA,NA,NA
+"506",834,"Mont Alto","17237",18,10,0,NA,NA,NA
+"507",835,"Needmore","17238",29,0,0,NA,NA,NA
+"508",836,"Neelyton","17239",0,0,0,NA,NA,NA
+"509",837,"Newburg","17240",17,5,0,NA,NA,NA
+"510",838,"Newville","17241",186,16,-1,NA,NA,NA
+"511",839,"Orbisonia","17243",34,0,0,NA,NA,NA
+"512",840,"Orrstown","17244",12,-1,0,NA,NA,NA
+"513",841,"Pleasant Hall","17246",-1,-1,0,NA,NA,NA
+"514",842,"Saint Thomas","17252",50,-1,0,NA,NA,NA
+"515",843,"Shade Gap","17255",11,-1,0,NA,NA,NA
+"516",844,"Shippensburg","17257",250,151,-1,NA,NA,NA
+"517",845,"Shirleysburg","17260",15,-1,0,NA,NA,NA
+"518",846,"Spring Run","17262",12,-1,0,NA,NA,NA
+"519",847,"Three Springs","17264",19,-1,0,NA,NA,NA
+"520",848,"Upperstrasburg","17265",-1,0,0,NA,NA,NA
+"521",849,"Walnut Bottom","17266",7,0,0,NA,NA,NA
+"522",850,"Warfordsburg","17267",26,-1,0,NA,NA,NA
+"523",851,"Waynesboro","17268",618,51,-1,NA,NA,NA
+"524",852,"Willow Hill","17271",-1,0,0,NA,NA,NA
+"525",853,"Abbottstown","17301",102,9,0,NA,NA,NA
+"526",854,"Airville","17302",49,5,0,NA,NA,NA
+"527",855,"Aspers","17304",60,-1,0,NA,NA,NA
+"528",856,"Biglerville","17307",137,13,0,NA,NA,NA
+"529",857,"Brogue","17309",40,-1,0,NA,NA,NA
+"530",858,"Dallastown","17313",306,20,0,NA,NA,NA
+"531",859,"Delta","17314",103,14,0,NA,NA,NA
+"532",860,"Dover","17315",606,30,-1,NA,NA,NA
+"533",861,"East Berlin","17316",148,15,0,NA,NA,NA
+"534",862,"Etters","17319",225,25,0,NA,NA,NA
+"535",863,"Fairfield","17320",178,20,0,NA,NA,NA
+"536",864,"Fawn Grove","17321",43,-1,0,NA,NA,NA
+"537",865,"Felton","17322",126,5,0,NA,NA,NA
+"538",866,"Gardners","17324",66,-1,0,NA,NA,NA
+"539",867,"Gettysburg","17325",703,39,-1,NA,NA,NA
+"540",868,"Glen Rock","17327",160,6,0,NA,NA,NA
+"541",869,"Glenville","17329",39,-1,0,NA,NA,NA
+"542",870,"Hanover","17331",1250,68,-1,NA,NA,NA
+"543",871,"Lewisberry","17339",100,10,-1,NA,NA,NA
+"544",872,"Littlestown","17340",261,27,-1,NA,NA,NA
+"545",873,"Mc Sherrystown","17344",94,5,0,NA,NA,NA
+"546",874,"Manchester","17345",232,-1,0,NA,NA,NA
+"547",875,"Mount Wolf","17347",142,8,0,NA,NA,NA
+"548",876,"New Freedom","17349",184,14,-1,NA,NA,NA
+"549",877,"New Oxford","17350",281,39,-1,NA,NA,NA
+"550",878,"New Park","17352",23,-1,0,NA,NA,NA
+"551",879,"Orrtanna","17353",78,-1,0,NA,NA,NA
+"552",880,"Red Lion","17356",627,24,-1,NA,NA,NA
+"553",881,"Seven Valleys","17360",145,8,0,NA,NA,NA
+"554",882,"Shrewsbury","17361",143,-1,0,NA,NA,NA
+"555",883,"Spring Grove","17362",269,19,0,NA,NA,NA
+"556",884,"Stewartstown","17363",247,7,0,NA,NA,NA
+"557",885,"Thomasville","17364",89,-1,0,NA,NA,NA
+"558",886,"Wellsville","17365",50,-1,0,NA,NA,NA
+"559",887,"Windsor","17366",160,5,0,NA,NA,NA
+"560",888,"Wrightsville","17368",194,12,0,NA,NA,NA
+"561",889,"York Haven","17370",153,-1,0,NA,NA,NA
+"562",890,"York Springs","17372",82,-1,0,NA,NA,NA
+"563",891,"York","17401",683,140,6,NA,NA,NA
+"564",892,"York","17402",1002,55,0,NA,NA,NA
+"565",893,"York","17403",1243,184,10,NA,NA,NA
+"566",894,"York","17404",1111,102,-1,NA,NA,NA
+"567",895,"York","17406",585,22,-1,NA,NA,NA
+"568",896,"York","17407",55,-1,0,NA,NA,NA
+"569",897,"York","17408",601,32,-1,NA,NA,NA
+"570",898,"Akron","17501",138,14,0,NA,NA,NA
+"571",899,"Bainbridge","17502",41,-1,0,NA,NA,NA
+"572",900,"Bird in Hand","17505",14,-1,-1,NA,NA,NA
+"573",901,"Christiana","17509",82,46,-1,NA,NA,NA
+"574",902,"Columbia","17512",463,62,-1,NA,NA,NA
+"575",903,"Conestoga","17516",94,14,0,NA,NA,NA
+"576",904,"Denver","17517",315,41,-1,NA,NA,NA
+"577",905,"Drumore","17518",18,-1,0,NA,NA,NA
+"578",906,"East Earl","17519",102,15,-1,NA,NA,NA
+"579",907,"East Petersburg","17520",86,14,0,NA,NA,NA
+"580",908,"Ephrata","17522",823,91,-1,NA,NA,NA
+"581",909,"Gap","17527",95,17,-1,NA,NA,NA
+"582",910,"Gordonville","17529",38,9,0,NA,NA,NA
+"583",911,"Holtwood","17532",58,6,0,NA,NA,NA
+"584",912,"Kinzers","17535",35,9,-1,NA,NA,NA
+"585",913,"Kirkwood","17536",28,-1,0,NA,NA,NA
+"586",914,"Landisville","17538",146,16,0,NA,NA,NA
+"587",915,"Leola","17540",217,28,-1,NA,NA,NA
+"588",916,"Lititz","17543",992,162,-1,NA,NA,NA
+"589",917,"Manheim","17545",394,77,0,NA,NA,NA
+"590",918,"Marietta","17547",171,19,0,NA,NA,NA
+"591",919,"Maytown","17550",21,-1,0,NA,NA,NA
+"592",920,"Millersville","17551",146,34,0,NA,NA,NA
+"593",921,"Mount Joy","17552",369,43,0,NA,NA,NA
+"594",922,"Mountville","17554",175,33,0,NA,NA,NA
+"595",923,"Narvon","17555",86,11,0,NA,NA,NA
+"596",924,"New Holland","17557",228,49,0,NA,NA,NA
+"597",925,"New Providence","17560",87,-1,0,NA,NA,NA
+"598",926,"Paradise","17562",53,15,0,NA,NA,NA
+"599",927,"Peach Bottom","17563",44,13,0,NA,NA,NA
+"600",928,"Pequea","17565",45,9,-1,NA,NA,NA
+"601",929,"Quarryville","17566",183,21,0,NA,NA,NA
+"602",930,"Reinholds","17569",109,15,0,NA,NA,NA
+"603",931,"Ronks","17572",31,8,0,NA,NA,NA
+"604",932,"Smoketown","17576",-1,0,0,NA,NA,NA
+"605",933,"Stevens","17578",107,8,0,NA,NA,NA
+"606",934,"Strasburg","17579",106,12,0,NA,NA,NA
+"607",935,"Terre Hill","17581",24,-1,0,NA,NA,NA
+"608",936,"Washington Boro","17582",32,-1,0,NA,NA,NA
+"609",937,"Willow Street","17584",202,33,0,NA,NA,NA
+"610",938,"Lancaster","17601",1228,309,-1,NA,NA,NA
+"611",939,"Lancaster","17602",1578,628,10,NA,NA,NA
+"612",940,"Lancaster","17603",1890,622,14,NA,NA,NA
+"613",941,"Williamsport","17701",638,27,-1,NA,NA,NA
+"614",942,"Williamsport","17702",131,6,-1,NA,NA,NA
+"615",943,"Avis","17721",24,-1,0,NA,NA,NA
+"616",944,"Cammal","17723",0,0,0,NA,NA,NA
+"617",945,"Canton","17724",72,-1,0,NA,NA,NA
+"618",946,"Cedar Run","17727",-1,0,0,NA,NA,NA
+"619",947,"Cogan Station","17728",66,-1,0,NA,NA,NA
+"620",948,"Cross Fork","17729",-1,0,0,NA,NA,NA
+"621",949,"Eagles Mere","17731",5,0,0,NA,NA,NA
+"622",950,"Hughesville","17737",57,-1,0,NA,NA,NA
+"623",951,"Jersey Shore","17740",212,93,-1,NA,NA,NA
+"624",952,"Lairdsville","17742",-1,0,0,NA,NA,NA
+"625",953,"Linden","17744",34,0,0,NA,NA,NA
+"626",954,"Lock Haven","17745",207,26,-1,NA,NA,NA
+"627",955,"Loganton","17747",29,7,-1,NA,NA,NA
+"628",956,"Mill Hall","17751",79,8,-1,NA,NA,NA
+"629",957,"Montgomery","17752",57,-1,0,NA,NA,NA
+"630",958,"Montoursville","17754",142,-1,-1,NA,NA,NA
+"631",959,"Muncy","17756",193,8,-1,NA,NA,NA
+"632",960,"Muncy Valley","17758",5,0,0,NA,NA,NA
+"633",961,"North Bend","17760",8,0,0,NA,NA,NA
+"634",962,"Ralston","17763",8,0,0,NA,NA,NA
+"635",963,"Renovo","17764",36,0,0,NA,NA,NA
+"636",964,"Roaring Branch","17765",11,-1,0,NA,NA,NA
+"637",965,"Shunk","17768",-1,0,0,NA,NA,NA
+"638",966,"Trout Run","17771",29,-1,0,NA,NA,NA
+"639",967,"Turbotville","17772",26,-1,0,NA,NA,NA
+"640",968,"Unityville","17774",12,0,0,NA,NA,NA
+"641",969,"Waterville","17776",-1,-1,0,NA,NA,NA
+"642",970,"Watsontown","17777",68,6,-1,NA,NA,NA
+"643",971,"Westport","17778",0,0,0,NA,NA,NA
+"644",972,"Sunbury","17801",237,60,9,NA,NA,NA
+"645",973,"Allenwood","17810",19,0,0,NA,NA,NA
+"646",974,"Beaver Springs","17812",17,-1,0,NA,NA,NA
+"647",975,"Beavertown","17813",23,0,0,NA,NA,NA
+"648",976,"Benton","17814",61,7,-1,NA,NA,NA
+"649",977,"Bloomsburg","17815",357,78,-1,NA,NA,NA
+"650",978,"Catawissa","17820",65,12,-1,NA,NA,NA
+"651",979,"Danville","17821",249,29,-1,NA,NA,NA
+"652",980,"Dornsife","17823",11,-1,0,NA,NA,NA
+"653",981,"Elysburg","17824",33,-1,-1,NA,NA,NA
+"654",982,"Freeburg","17827",6,0,0,NA,NA,NA
+"655",983,"Herndon","17830",22,6,-1,NA,NA,NA
+"656",984,"Marion Heights","17832",7,-1,0,NA,NA,NA
+"657",985,"Kulpmont","17834",55,-1,0,NA,NA,NA
+"658",986,"Laurelton","17835",0,0,0,NA,NA,NA
+"659",987,"Leck Kill","17836",-1,-1,0,NA,NA,NA
+"660",988,"Lewisburg","17837",119,28,-1,NA,NA,NA
+"661",989,"Locust Gap","17840",-1,-1,0,NA,NA,NA
+"662",990,"Mc Clure","17841",44,7,0,NA,NA,NA
+"663",991,"Middleburg","17842",66,-1,0,NA,NA,NA
+"664",992,"Mifflinburg","17844",83,10,-1,NA,NA,NA
+"665",993,"Millmont","17845",24,-1,0,NA,NA,NA
+"666",994,"Millville","17846",34,5,0,NA,NA,NA
+"667",995,"Milton","17847",121,21,0,NA,NA,NA
+"668",996,"Montandon","17850",5,0,0,NA,NA,NA
+"669",997,"Mount Carmel","17851",123,9,0,NA,NA,NA
+"670",998,"Mount Pleasant Mills","17853",22,-1,0,NA,NA,NA
+"671",999,"New Berlin","17855",15,0,0,NA,NA,NA
+"672",1000,"New Columbia","17856",25,-1,0,NA,NA,NA
+"673",1001,"Northumberland","17857",97,13,0,NA,NA,NA
+"674",1002,"Orangeville","17859",47,45,0,NA,NA,NA
+"675",1003,"Paxinos","17860",20,0,0,NA,NA,NA
+"676",1004,"Port Trevorton","17864",8,0,0,NA,NA,NA
+"677",1005,"Coal Township","17866",167,5,0,NA,NA,NA
+"678",1006,"Rebuck","17867",-1,0,0,NA,NA,NA
+"679",1007,"Riverside","17868",5,0,0,NA,NA,NA
+"680",1008,"Selinsgrove","17870",155,18,-1,NA,NA,NA
+"681",1009,"Shamokin","17872",154,13,0,NA,NA,NA
+"682",1010,"Shamokin Dam","17876",31,-1,-1,NA,NA,NA
+"683",1011,"Snydertown","17877",0,0,0,NA,NA,NA
+"684",1012,"Stillwater","17878",27,-1,0,NA,NA,NA
+"685",1013,"Trevorton","17881",20,-1,-1,NA,NA,NA
+"686",1014,"West Milton","17886",8,-1,0,NA,NA,NA
+"687",1015,"Wilburton","17888",-1,0,0,NA,NA,NA
+"688",1016,"Winfield","17889",19,6,0,NA,NA,NA
+"689",1017,"Pottsville","17901",784,131,-1,NA,NA,NA
+"690",1018,"Ashland","17921",132,13,-1,NA,NA,NA
+"691",1019,"Auburn","17922",104,22,-1,NA,NA,NA
+"692",1020,"Branchdale","17923",10,0,0,NA,NA,NA
+"693",1021,"Brockton","17925",6,-1,0,NA,NA,NA
+"694",1022,"Cressona","17929",40,5,0,NA,NA,NA
+"695",1023,"Cumbola","17930",13,-1,0,NA,NA,NA
+"696",1024,"Frackville","17931",187,14,-1,NA,NA,NA
+"697",1025,"Gilberton","17934",6,0,0,NA,NA,NA
+"698",1026,"Girardville","17935",32,-1,-1,NA,NA,NA
+"699",1027,"Hegins","17938",39,11,0,NA,NA,NA
+"700",1028,"Klingerstown","17941",14,-1,0,NA,NA,NA
+"701",1029,"Mahanoy City","17948",119,17,0,NA,NA,NA
+"702",1030,"Minersville","17954",148,10,-1,NA,NA,NA
+"703",1031,"Muir","17957",8,-1,0,NA,NA,NA
+"704",1032,"New Philadelphia","17959",36,-1,0,NA,NA,NA
+"705",1033,"New Ringgold","17960",88,9,0,NA,NA,NA
+"706",1034,"Orwigsburg","17961",241,12,-1,NA,NA,NA
+"707",1035,"Pine Grove","17963",154,22,0,NA,NA,NA
+"708",1036,"Pitman","17964",11,6,-1,NA,NA,NA
+"709",1037,"Port Carbon","17965",54,8,-1,NA,NA,NA
+"710",1038,"Ringtown","17967",49,12,0,NA,NA,NA
+"711",1039,"Sacramento","17968",6,5,0,NA,NA,NA
+"712",1040,"Saint Clair","17970",80,-1,0,NA,NA,NA
+"713",1041,"Schuylkill Haven","17972",287,29,5,NA,NA,NA
+"714",1042,"Seltzer","17974",9,-1,0,NA,NA,NA
+"715",1043,"Shenandoah","17976",190,50,-1,NA,NA,NA
+"716",1044,"Spring Glen","17978",-1,0,0,NA,NA,NA
+"717",1045,"Tower City","17980",54,11,0,NA,NA,NA
+"718",1046,"Tremont","17981",76,5,0,NA,NA,NA
+"719",1047,"Valley View","17983",25,10,0,NA,NA,NA
+"720",1048,"Zion Grove","17985",25,8,-1,NA,NA,NA
+"721",1049,"Alburtis","18011",132,18,0,NA,NA,NA
+"722",1050,"Bangor","18013",494,62,-1,NA,NA,NA
+"723",1051,"Bath","18014",356,35,-1,NA,NA,NA
+"724",1052,"Bethlehem","18015",1002,247,14,NA,NA,NA
+"725",1053,"Bethlehem","18017",1422,469,17,NA,NA,NA
+"726",1054,"Bethlehem","18018",1126,243,16,NA,NA,NA
+"727",1055,"Bethlehem","18020",646,191,-1,NA,NA,NA
+"728",1056,"Breinigsville","18031",285,55,0,NA,NA,NA
+"729",1057,"Catasauqua","18032",306,53,0,NA,NA,NA
+"730",1058,"Center Valley","18034",220,25,0,NA,NA,NA
+"731",1059,"Cherryville","18035",11,0,0,NA,NA,NA
+"732",1060,"Coopersburg","18036",386,152,-1,NA,NA,NA
+"733",1061,"Coplay","18037",239,41,-1,NA,NA,NA
+"734",1062,"Danielsville","18038",76,14,0,NA,NA,NA
+"735",1063,"Easton","18040",539,96,-1,NA,NA,NA
+"736",1064,"East Greenville","18041",133,16,0,NA,NA,NA
+"737",1065,"Easton","18042",1619,516,5,NA,NA,NA
+"738",1066,"Easton","18045",1017,385,8,NA,NA,NA
+"739",1067,"Emmaus","18049",555,72,-1,NA,NA,NA
+"740",1068,"Fogelsville","18051",70,-1,0,NA,NA,NA
+"741",1069,"Whitehall","18052",995,307,-1,NA,NA,NA
+"742",1070,"Germansville","18053",48,6,0,NA,NA,NA
+"743",1071,"Green Lane","18054",92,13,0,NA,NA,NA
+"744",1072,"Hellertown","18055",349,62,7,NA,NA,NA
+"745",1073,"Hereford","18056",35,-1,-1,NA,NA,NA
+"746",1074,"Kunkletown","18058",255,33,0,NA,NA,NA
+"747",1075,"Laurys Station","18059",37,-1,0,NA,NA,NA
+"748",1076,"Macungie","18062",717,177,-1,NA,NA,NA
+"749",1077,"Martins Creek","18063",13,0,0,NA,NA,NA
+"750",1078,"Nazareth","18064",818,304,-1,NA,NA,NA
+"751",1079,"New Tripoli","18066",150,10,0,NA,NA,NA
+"752",1080,"Northampton","18067",587,71,-1,NA,NA,NA
+"753",1081,"Orefield","18069",233,38,-1,NA,NA,NA
+"754",1082,"Palm","18070",12,-1,0,NA,NA,NA
+"755",1083,"Palmerton","18071",305,26,0,NA,NA,NA
+"756",1084,"Pen Argyl","18072",204,19,-1,NA,NA,NA
+"757",1085,"Pennsburg","18073",270,22,-1,NA,NA,NA
+"758",1086,"Perkiomenville","18074",126,8,0,NA,NA,NA
+"759",1087,"Red Hill","18076",93,-1,-1,NA,NA,NA
+"760",1088,"Riegelsville","18077",60,-1,0,NA,NA,NA
+"761",1089,"Schnecksville","18078",177,17,-1,NA,NA,NA
+"762",1090,"Slatington","18080",352,45,-1,NA,NA,NA
+"763",1091,"Stockertown","18083",27,-1,0,NA,NA,NA
+"764",1092,"Tatamy","18085",25,-1,0,NA,NA,NA
+"765",1093,"Trexlertown","18087",28,21,0,NA,NA,NA
+"766",1094,"Walnutport","18088",241,34,-1,NA,NA,NA
+"767",1095,"Wind Gap","18091",178,17,-1,NA,NA,NA
+"768",1096,"Zionsville","18092",81,6,0,NA,NA,NA
+"769",1097,"Allentown","18101",207,51,0,NA,NA,NA
+"770",1098,"Allentown","18102",2077,1073,-1,NA,NA,NA
+"771",1099,"Allentown","18103",1692,621,-1,NA,NA,NA
+"772",1100,"Allentown","18104",1438,403,9,NA,NA,NA
+"773",1101,"Allentown","18106",249,61,0,NA,NA,NA
+"774",1102,"Allentown","18109",772,331,-1,NA,NA,NA
+"775",1103,"Hazleton","18201",1021,999,17,NA,NA,NA
+"776",1104,"Hazleton","18202",413,312,6,NA,NA,NA
+"777",1105,"Albrightsville","18210",233,49,0,NA,NA,NA
+"778",1106,"Andreas","18211",30,-1,0,NA,NA,NA
+"779",1107,"Barnesville","18214",48,7,0,NA,NA,NA
+"780",1108,"Beaver Meadows","18216",40,16,0,NA,NA,NA
+"781",1109,"Coaldale","18218",85,6,0,NA,NA,NA
+"782",1110,"Conyngham","18219",35,9,0,NA,NA,NA
+"783",1111,"Delano","18220",6,-1,0,NA,NA,NA
+"784",1112,"Drums","18222",215,53,-1,NA,NA,NA
+"785",1113,"Freeland","18224",185,44,0,NA,NA,NA
+"786",1114,"Harleigh","18225",-1,-1,0,NA,NA,NA
+"787",1115,"Jim Thorpe","18229",194,18,0,NA,NA,NA
+"788",1116,"Junedale","18230",-1,0,0,NA,NA,NA
+"789",1117,"Lansford","18232",170,-1,0,NA,NA,NA
+"790",1118,"Lehighton","18235",533,31,0,NA,NA,NA
+"791",1119,"McAdoo","18237",98,34,0,NA,NA,NA
+"792",1120,"Nesquehoning","18240",116,-1,0,NA,NA,NA
+"793",1121,"Quakake","18245",-1,0,0,NA,NA,NA
+"794",1122,"Rock Glen","18246",-1,0,0,NA,NA,NA
+"795",1123,"Sheppton","18248",22,-1,-1,NA,NA,NA
+"796",1124,"Sugarloaf","18249",90,19,0,NA,NA,NA
+"797",1125,"Summit Hill","18250",90,-1,-1,NA,NA,NA
+"798",1126,"Tamaqua","18252",360,40,-1,NA,NA,NA
+"799",1127,"Tresckow","18254",26,9,0,NA,NA,NA
+"800",1128,"Weatherly","18255",193,58,-1,NA,NA,NA
+"801",1129,"East Stroudsburg","18301",878,235,-1,NA,NA,NA
+"802",1130,"East Stroudsburg","18302",511,166,7,NA,NA,NA
+"803",1131,"Bartonsville","18321",69,8,-1,NA,NA,NA
+"804",1132,"Brodheadsville","18322",96,21,-1,NA,NA,NA
+"805",1133,"Bushkill","18324",332,91,6,NA,NA,NA
+"806",1134,"Canadensis","18325",62,9,-1,NA,NA,NA
+"807",1135,"Cresco","18326",110,16,0,NA,NA,NA
+"808",1136,"Delaware Water Gap","18327",15,5,0,NA,NA,NA
+"809",1137,"Dingmans Ferry","18328",293,51,6,NA,NA,NA
+"810",1138,"Effort","18330",267,58,0,NA,NA,NA
+"811",1139,"Gilbert","18331",30,-1,-1,NA,NA,NA
+"812",1140,"Henryville","18332",79,28,-1,NA,NA,NA
+"813",1141,"Kresgeville","18333",23,-1,0,NA,NA,NA
+"814",1142,"Long Pond","18334",85,31,0,NA,NA,NA
+"815",1143,"Matamoras","18336",138,31,-1,NA,NA,NA
+"816",1144,"Milford","18337",540,151,9,NA,NA,NA
+"817",1145,"Millrift","18340",5,0,0,NA,NA,NA
+"818",1146,"Mount Bethel","18343",134,12,0,NA,NA,NA
+"819",1147,"Mount Pocono","18344",112,35,-1,NA,NA,NA
+"820",1148,"Pocono Summit","18346",106,32,0,NA,NA,NA
+"821",1149,"Pocono Lake","18347",47,11,-1,NA,NA,NA
+"822",1150,"Pocono Pines","18350",39,6,0,NA,NA,NA
+"823",1151,"Reeders","18352",18,-1,-1,NA,NA,NA
+"824",1152,"Saylorsburg","18353",363,54,0,NA,NA,NA
+"825",1153,"Sciota","18354",35,5,0,NA,NA,NA
+"826",1154,"Scotrun","18355",45,6,0,NA,NA,NA
+"827",1155,"Stroudsburg","18360",920,262,5,NA,NA,NA
+"828",1156,"Swiftwater","18370",31,14,0,NA,NA,NA
+"829",1157,"Tamiment","18371",21,7,0,NA,NA,NA
+"830",1158,"Tannersville","18372",74,19,-1,NA,NA,NA
+"831",1159,"Archbald","18403",107,27,0,NA,NA,NA
+"832",1160,"Beach Lake","18405",31,7,0,NA,NA,NA
+"833",1161,"Carbondale","18407",273,104,-1,NA,NA,NA
+"834",1162,"Clarks Summit","18411",325,74,6,NA,NA,NA
+"835",1163,"Dalton","18414",87,13,0,NA,NA,NA
+"836",1164,"Damascus","18415",14,-1,0,NA,NA,NA
+"837",1165,"Equinunk","18417",9,-1,0,NA,NA,NA
+"838",1166,"Factoryville","18419",60,6,-1,NA,NA,NA
+"839",1167,"Forest City","18421",67,54,-1,NA,NA,NA
+"840",1168,"Gouldsboro","18424",78,26,-1,NA,NA,NA
+"841",1169,"Greeley","18425",35,10,0,NA,NA,NA
+"842",1170,"Greentown","18426",56,10,0,NA,NA,NA
+"843",1171,"Hamlin","18427",10,-1,0,NA,NA,NA
+"844",1172,"Hawley","18428",333,83,0,NA,NA,NA
+"845",1173,"Herrick Center","18430",-1,0,0,NA,NA,NA
+"846",1174,"Honesdale","18431",200,25,-1,NA,NA,NA
+"847",1175,"Jermyn","18433",113,14,-1,NA,NA,NA
+"848",1176,"Jessup","18434",83,21,-1,NA,NA,NA
+"849",1177,"Lackawaxen","18435",22,-1,-1,NA,NA,NA
+"850",1178,"Lake Ariel","18436",202,42,-1,NA,NA,NA
+"851",1179,"Lake Como","18437",-1,-1,0,NA,NA,NA
+"852",1180,"Lakeville","18438",17,-1,-1,NA,NA,NA
+"853",1181,"Lakewood","18439",11,-1,0,NA,NA,NA
+"854",1182,"Lenoxville","18441",-1,-1,0,NA,NA,NA
+"855",1183,"Milanville","18443",-1,0,0,NA,NA,NA
+"856",1184,"Moscow","18444",238,105,5,NA,NA,NA
+"857",1185,"Newfoundland","18445",31,0,0,NA,NA,NA
+"858",1186,"Nicholson","18446",34,7,-1,NA,NA,NA
+"859",1187,"Olyphant","18447",154,39,-1,NA,NA,NA
+"860",1188,"Paupack","18451",11,0,0,NA,NA,NA
+"861",1189,"Peckville","18452",82,22,0,NA,NA,NA
+"862",1190,"Pleasant Mount","18453",17,-1,0,NA,NA,NA
+"863",1191,"Preston Park","18455",-1,0,0,NA,NA,NA
+"864",1192,"Prompton","18456",6,0,0,NA,NA,NA
+"865",1193,"Shohola","18458",73,19,-1,NA,NA,NA
+"866",1194,"South Sterling","18460",-1,0,0,NA,NA,NA
+"867",1195,"Starlight","18461",-1,0,0,NA,NA,NA
+"868",1196,"Starrucca","18462",-1,0,0,NA,NA,NA
+"869",1197,"Sterling","18463",-1,-1,0,NA,NA,NA
+"870",1198,"Tafton","18464",31,-1,0,NA,NA,NA
+"871",1199,"Thompson","18465",15,-1,0,NA,NA,NA
+"872",1200,"Tobyhanna","18466",423,138,9,NA,NA,NA
+"873",1201,"Tyler Hill","18469",5,-1,0,NA,NA,NA
+"874",1202,"Union Dale","18470",25,-1,-1,NA,NA,NA
+"875",1203,"Waverly","18471",15,-1,-1,NA,NA,NA
+"876",1204,"Waymart","18472",103,6,0,NA,NA,NA
+"877",1205,"Scranton","18503",192,-1,0,NA,NA,NA
+"878",1206,"Scranton","18504",390,137,-1,NA,NA,NA
+"879",1207,"Scranton","18505",427,246,7,NA,NA,NA
+"880",1208,"Moosic","18507",86,27,0,NA,NA,NA
+"881",1209,"Scranton","18508",260,130,0,NA,NA,NA
+"882",1210,"Scranton","18509",197,57,-1,NA,NA,NA
+"883",1211,"Scranton","18510",214,161,8,NA,NA,NA
+"884",1212,"Scranton","18512",194,62,0,NA,NA,NA
+"885",1213,"Taylor","18517",122,40,-1,NA,NA,NA
+"886",1214,"Old Forge","18518",151,35,0,NA,NA,NA
+"887",1215,"Scranton","18519",103,19,-1,NA,NA,NA
+"888",1216,"Berwick","18603",398,174,7,NA,NA,NA
+"889",1217,"Blakeslee","18610",112,41,-1,NA,NA,NA
+"890",1218,"Dallas","18612",338,24,-1,NA,NA,NA
+"891",1219,"Dushore","18614",37,0,0,NA,NA,NA
+"892",1220,"Falls","18615",26,5,0,NA,NA,NA
+"893",1221,"Forksville","18616",11,0,0,NA,NA,NA
+"894",1222,"Glen Lyon","18617",30,-1,0,NA,NA,NA
+"895",1223,"Harveys Lake","18618",54,5,-1,NA,NA,NA
+"896",1224,"Hillsgrove","18619",0,0,0,NA,NA,NA
+"897",1225,"Hunlock Creek","18621",233,18,0,NA,NA,NA
+"898",1226,"Huntington Mills","18622",5,0,0,NA,NA,NA
+"899",1227,"Laceyville","18623",39,0,0,NA,NA,NA
+"900",1228,"Lake Harmony","18624",13,-1,0,NA,NA,NA
+"901",1229,"Lopez","18628",5,0,0,NA,NA,NA
+"902",1230,"Mehoopany","18629",22,0,0,NA,NA,NA
+"903",1231,"Meshoppen","18630",48,-1,0,NA,NA,NA
+"904",1232,"Mifflinville","18631",21,7,0,NA,NA,NA
+"905",1233,"Mildred","18632",-1,0,0,NA,NA,NA
+"906",1234,"Nanticoke","18634",366,58,0,NA,NA,NA
+"907",1235,"Nescopeck","18635",57,20,0,NA,NA,NA
+"908",1236,"Noxen","18636",18,-1,0,NA,NA,NA
+"909",1237,"Pittston","18640",362,59,-1,NA,NA,NA
+"910",1238,"Pittston","18641",128,26,0,NA,NA,NA
+"911",1239,"Duryea","18642",60,15,0,NA,NA,NA
+"912",1240,"Pittston","18643",273,27,-1,NA,NA,NA
+"913",1241,"Wyoming","18644",142,20,0,NA,NA,NA
+"914",1242,"Plymouth","18651",171,26,0,NA,NA,NA
+"915",1243,"Shickshinny","18655",128,33,0,NA,NA,NA
+"916",1244,"Sweet Valley","18656",45,5,0,NA,NA,NA
+"917",1245,"Tunkhannock","18657",166,13,0,NA,NA,NA
+"918",1246,"Wapwallopen","18660",55,8,0,NA,NA,NA
+"919",1247,"White Haven","18661",133,20,0,NA,NA,NA
+"920",1248,"Wilkes Barre","18701",63,12,0,NA,NA,NA
+"921",1249,"Wilkes Barre","18702",931,332,-1,NA,NA,NA
+"922",1250,"Kingston","18704",691,114,-1,NA,NA,NA
+"923",1251,"Wilkes Barre","18705",350,75,-1,NA,NA,NA
+"924",1252,"Wilkes Barre","18706",320,58,-1,NA,NA,NA
+"925",1253,"Mountain Top","18707",278,102,0,NA,NA,NA
+"926",1254,"Shavertown","18708",155,16,0,NA,NA,NA
+"927",1255,"Luzerne","18709",69,5,0,NA,NA,NA
+"928",1256,"Montrose","18801",134,7,0,NA,NA,NA
+"929",1257,"Athens","18810",147,-1,-1,NA,NA,NA
+"930",1258,"Brackney","18812",14,-1,0,NA,NA,NA
+"931",1259,"East Smithfield","18817",-1,0,0,NA,NA,NA
+"932",1260,"Friendsville","18818",12,-1,-1,NA,NA,NA
+"933",1261,"Great Bend","18821",13,-1,0,NA,NA,NA
+"934",1262,"Hallstead","18822",39,-1,0,NA,NA,NA
+"935",1263,"Harford","18823",5,0,0,NA,NA,NA
+"936",1264,"Hop Bottom","18824",15,-1,0,NA,NA,NA
+"937",1265,"Jackson","18825",0,-1,0,NA,NA,NA
+"938",1266,"Kingsley","18826",12,-1,-1,NA,NA,NA
+"939",1267,"Lawton","18828",-1,0,0,NA,NA,NA
+"940",1268,"Le Raysville","18829",13,-1,0,NA,NA,NA
+"941",1269,"Little Meadows","18830",-1,0,0,NA,NA,NA
+"942",1270,"Milan","18831",24,0,0,NA,NA,NA
+"943",1271,"Monroeton","18832",25,0,0,NA,NA,NA
+"944",1272,"New Albany","18833",35,-1,-1,NA,NA,NA
+"945",1273,"New Milford","18834",41,-1,0,NA,NA,NA
+"946",1274,"Rome","18837",73,0,0,NA,NA,NA
+"947",1275,"Sayre","18840",319,19,-1,NA,NA,NA
+"948",1276,"South Gibson","18842",-1,0,0,NA,NA,NA
+"949",1277,"Springville","18844",19,0,0,NA,NA,NA
+"950",1278,"Stevensville","18845",6,0,0,NA,NA,NA
+"951",1279,"Sugar Run","18846",14,0,0,NA,NA,NA
+"952",1280,"Susquehanna","18847",71,7,0,NA,NA,NA
+"953",1281,"Towanda","18848",163,-1,0,NA,NA,NA
+"954",1282,"Ulster","18850",49,-1,0,NA,NA,NA
+"955",1283,"Warren Center","18851",16,0,0,NA,NA,NA
+"956",1284,"Wyalusing","18853",73,-1,0,NA,NA,NA
+"957",1285,"Wysox","18854",26,-1,0,NA,NA,NA
+"958",1286,"Doylestown","18901",901,381,16,NA,NA,NA
+"959",1287,"Doylestown","18902",455,92,7,NA,NA,NA
+"960",1288,"Carversville","18913",14,-1,0,NA,NA,NA
+"961",1289,"Chalfont","18914",534,70,6,NA,NA,NA
+"962",1290,"Colmar","18915",35,7,0,NA,NA,NA
+"963",1291,"Dublin","18917",51,11,-1,NA,NA,NA
+"964",1292,"Erwinna","18920",9,0,0,NA,NA,NA
+"965",1293,"Fountainville","18923",21,-1,-1,NA,NA,NA
+"966",1294,"Furlong","18925",110,22,6,NA,NA,NA
+"967",1295,"Hilltown","18927",8,0,0,NA,NA,NA
+"968",1296,"Jamison","18929",212,55,-1,NA,NA,NA
+"969",1297,"Kintnersville","18930",63,-1,0,NA,NA,NA
+"970",1298,"Line Lexington","18932",16,-1,0,NA,NA,NA
+"971",1299,"Lumberville","18933",5,0,0,NA,NA,NA
+"972",1300,"Mechanicsville","18934",-1,-1,0,NA,NA,NA
+"973",1301,"Montgomeryville","18936",23,95,0,NA,NA,NA
+"974",1302,"New Hope","18938",276,41,14,NA,NA,NA
+"975",1303,"Newtown","18940",542,166,21,NA,NA,NA
+"976",1304,"Ottsville","18942",67,6,0,NA,NA,NA
+"977",1305,"Perkasie","18944",560,55,5,NA,NA,NA
+"978",1306,"Pipersville","18947",114,19,-1,NA,NA,NA
+"979",1307,"Quakertown","18951",1193,161,10,NA,NA,NA
+"980",1308,"Richboro","18954",246,84,7,NA,NA,NA
+"981",1309,"Richlandtown","18955",58,10,-1,NA,NA,NA
+"982",1310,"Sellersville","18960",321,68,5,NA,NA,NA
+"983",1311,"Souderton","18964",394,87,-1,NA,NA,NA
+"984",1312,"Southampton","18966",897,250,20,NA,NA,NA
+"985",1313,"Telford","18969",359,83,-1,NA,NA,NA
+"986",1314,"Upper Black Eddy","18972",64,8,0,NA,NA,NA
+"987",1315,"Warminster","18974",1134,219,27,NA,NA,NA
+"988",1316,"Warrington","18976",595,189,19,NA,NA,NA
+"989",1317,"Washington Crossing","18977",70,11,-1,NA,NA,NA
+"990",1318,"Abington","19001",534,135,0,NA,NA,NA
+"991",1319,"Ambler","19002",973,237,0,NA,NA,NA
+"992",1320,"Ardmore","19003",410,74,0,NA,NA,NA
+"993",1321,"Bala Cynwyd","19004",412,77,0,NA,NA,NA
+"994",1322,"Huntingdon Valley","19006",631,151,-1,NA,NA,NA
+"995",1323,"Bristol","19007",504,253,17,NA,NA,NA
+"996",1324,"Broomall","19008",587,272,6,NA,NA,NA
+"997",1325,"Bryn Athyn","19009",15,0,0,NA,NA,NA
+"998",1326,"Bryn Mawr","19010",661,153,-1,NA,NA,NA
+"999",1327,"Cheltenham","19012",220,57,0,NA,NA,NA
+"1000",1328,"Chester","19013",888,377,5,NA,NA,NA
+"1001",1329,"Aston","19014",437,122,10,NA,NA,NA
+"1002",1330,"Brookhaven","19015",388,137,-1,NA,NA,NA
+"1003",1331,"Clifton Heights","19018",637,193,6,NA,NA,NA
+"1004",1332,"Bensalem","19020",1472,427,30,NA,NA,NA
+"1005",1333,"Croydon","19021",236,83,7,NA,NA,NA
+"1006",1334,"Crum Lynne","19022",81,31,-1,NA,NA,NA
+"1007",1335,"Darby","19023",634,464,-1,NA,NA,NA
+"1008",1336,"Dresher","19025",208,22,0,NA,NA,NA
+"1009",1337,"Drexel Hill","19026",879,249,6,NA,NA,NA
+"1010",1338,"Elkins Park","19027",665,189,0,NA,NA,NA
+"1011",1339,"Essington","19029",93,24,-1,NA,NA,NA
+"1012",1340,"Fairless Hills","19030",295,85,18,NA,NA,NA
+"1013",1341,"Flourtown","19031",194,101,0,NA,NA,NA
+"1014",1342,"Folcroft","19032",177,86,-1,NA,NA,NA
+"1015",1343,"Folsom","19033",164,43,-1,NA,NA,NA
+"1016",1344,"Fort Washington","19034",189,70,0,NA,NA,NA
+"1017",1345,"Gladwyne","19035",154,17,0,NA,NA,NA
+"1018",1346,"Glenolden","19036",306,82,-1,NA,NA,NA
+"1019",1347,"Glenside","19038",989,298,0,NA,NA,NA
+"1020",1348,"Hatboro","19040",636,83,0,NA,NA,NA
+"1021",1349,"Haverford","19041",213,55,-1,NA,NA,NA
+"1022",1350,"Holmes","19043",69,16,-1,NA,NA,NA
+"1023",1351,"Horsham","19044",400,60,-1,NA,NA,NA
+"1024",1352,"Jenkintown","19046",557,132,0,NA,NA,NA
+"1025",1353,"Langhorne","19047",778,461,18,NA,NA,NA
+"1026",1354,"Lansdowne","19050",1051,578,-1,NA,NA,NA
+"1027",1355,"Feasterville Trevose","19053",678,143,10,NA,NA,NA
+"1028",1356,"Levittown","19054",393,105,17,NA,NA,NA
+"1029",1357,"Levittown","19055",303,101,16,NA,NA,NA
+"1030",1358,"Levittown","19056",353,151,11,NA,NA,NA
+"1031",1359,"Levittown","19057",348,102,11,NA,NA,NA
+"1032",1360,"Garnet Valley","19060",177,40,5,NA,NA,NA
+"1033",1361,"Marcus Hook","19061",541,119,-1,NA,NA,NA
+"1034",1362,"Media","19063",982,533,11,NA,NA,NA
+"1035",1363,"Springfield","19064",588,163,6,NA,NA,NA
+"1036",1364,"Merion Station","19066",210,61,0,NA,NA,NA
+"1037",1365,"Morrisville","19067",967,327,49,NA,NA,NA
+"1038",1366,"Morton","19070",177,41,-1,NA,NA,NA
+"1039",1367,"Narberth","19072",347,46,0,NA,NA,NA
+"1040",1368,"Newtown Square","19073",577,119,6,NA,NA,NA
+"1041",1369,"Norwood","19074",128,36,-1,NA,NA,NA
+"1042",1370,"Oreland","19075",202,36,0,NA,NA,NA
+"1043",1371,"Prospect Park","19076",161,88,8,NA,NA,NA
+"1044",1372,"Ridley Park","19078",267,61,-1,NA,NA,NA
+"1045",1373,"Sharon Hill","19079",270,134,-1,NA,NA,NA
+"1046",1374,"Swarthmore","19081",218,45,-1,NA,NA,NA
+"1047",1375,"Upper Darby","19082",1043,612,12,NA,NA,NA
+"1048",1376,"Havertown","19083",1031,201,16,NA,NA,NA
+"1049",1377,"Villanova","19085",201,14,-1,NA,NA,NA
+"1050",1378,"Wallingford","19086",299,198,-1,NA,NA,NA
+"1051",1379,"Wayne","19087",829,143,6,NA,NA,NA
+"1052",1380,"Willow Grove","19090",679,186,0,NA,NA,NA
+"1053",1381,"Woodlyn","19094",104,34,-1,NA,NA,NA
+"1054",1382,"Wyncote","19095",309,235,-1,NA,NA,NA
+"1055",1383,"Wynnewood","19096",451,128,-1,NA,NA,NA
+"1056",1384,"Philadelphia","19102",198,41,0,NA,NA,NA
+"1057",1385,"Philadelphia","19103",581,180,-1,NA,NA,NA
+"1058",1386,"Philadelphia","19104",909,268,0,NA,NA,NA
+"1059",1387,"Philadelphia","19106",317,40,0,NA,NA,NA
+"1060",1388,"Philadelphia","19107",584,176,0,NA,NA,NA
+"1061",1389,"Philadelphia","19111",1898,794,-1,NA,NA,NA
+"1062",1390,"Philadelphia","19112",-1,0,0,NA,NA,NA
+"1063",1391,"Philadelphia","19113",-1,0,0,NA,NA,NA
+"1064",1392,"Philadelphia","19114",988,317,-1,NA,NA,NA
+"1065",1393,"Philadelphia","19115",1039,625,0,NA,NA,NA
+"1066",1394,"Philadelphia","19116",991,464,0,NA,NA,NA
+"1067",1395,"Philadelphia","19118",295,123,0,NA,NA,NA
+"1068",1396,"Philadelphia","19119",891,317,0,NA,NA,NA
+"1069",1397,"Philadelphia","19120",1625,790,-1,NA,NA,NA
+"1070",1398,"Philadelphia","19121",983,304,0,NA,NA,NA
+"1071",1399,"Philadelphia","19122",592,176,0,NA,NA,NA
+"1072",1400,"Philadelphia","19123",641,213,0,NA,NA,NA
+"1073",1401,"Philadelphia","19124",1688,707,-1,NA,NA,NA
+"1074",1402,"Philadelphia","19125",687,168,0,NA,NA,NA
+"1075",1403,"Philadelphia","19126",545,335,0,NA,NA,NA
+"1076",1404,"Philadelphia","19127",156,23,-1,NA,NA,NA
+"1077",1405,"Philadelphia","19128",1030,310,-1,NA,NA,NA
+"1078",1406,"Philadelphia","19129",350,90,0,NA,NA,NA
+"1079",1407,"Philadelphia","19130",881,231,0,NA,NA,NA
+"1080",1408,"Philadelphia","19131",1626,588,0,NA,NA,NA
+"1081",1409,"Philadelphia","19132",1078,460,0,NA,NA,NA
+"1082",1410,"Philadelphia","19133",667,326,0,NA,NA,NA
+"1083",1411,"Philadelphia","19134",1454,538,0,NA,NA,NA
+"1084",1412,"Philadelphia","19135",945,314,0,NA,NA,NA
+"1085",1413,"Philadelphia","19136",1163,595,0,NA,NA,NA
+"1086",1414,"Philadelphia","19137",233,36,0,NA,NA,NA
+"1087",1415,"Philadelphia","19138",1035,346,0,NA,NA,NA
+"1088",1416,"Philadelphia","19139",1766,547,0,NA,NA,NA
+"1089",1417,"Philadelphia","19140",1513,629,0,NA,NA,NA
+"1090",1418,"Philadelphia","19141",899,298,0,NA,NA,NA
+"1091",1419,"Philadelphia","19142",764,407,0,NA,NA,NA
+"1092",1420,"Philadelphia","19143",2229,651,0,NA,NA,NA
+"1093",1421,"Philadelphia","19144",1281,496,0,NA,NA,NA
+"1094",1422,"Philadelphia","19145",1488,416,0,NA,NA,NA
+"1095",1423,"Philadelphia","19146",1281,299,0,NA,NA,NA
+"1096",1424,"Philadelphia","19147",1052,227,0,NA,NA,NA
+"1097",1425,"Philadelphia","19148",1441,450,0,NA,NA,NA
+"1098",1426,"Philadelphia","19149",1241,567,0,NA,NA,NA
+"1099",1427,"Philadelphia","19150",924,360,0,NA,NA,NA
+"1100",1428,"Philadelphia","19151",1153,424,0,NA,NA,NA
+"1101",1429,"Philadelphia","19152",1045,450,0,NA,NA,NA
+"1102",1430,"Philadelphia","19153",376,138,0,NA,NA,NA
+"1103",1431,"Philadelphia","19154",1204,355,0,NA,NA,NA
+"1104",1432,"Paoli","19301",194,42,-1,NA,NA,NA
+"1105",1433,"Atglen","19310",47,9,0,NA,NA,NA
+"1106",1434,"Avondale","19311",65,29,-1,NA,NA,NA
+"1107",1435,"Berwyn","19312",290,95,-1,NA,NA,NA
+"1108",1436,"Chadds Ford","19317",156,20,-1,NA,NA,NA
+"1109",1437,"Cheyney","19319",8,0,0,NA,NA,NA
+"1110",1438,"Coatesville","19320",1036,244,8,NA,NA,NA
+"1111",1439,"Cochranville","19330",48,13,0,NA,NA,NA
+"1112",1440,"Devon","19333",160,20,-1,NA,NA,NA
+"1113",1441,"Downingtown","19335",765,194,13,NA,NA,NA
+"1114",1442,"Exton","19341",363,65,8,NA,NA,NA
+"1115",1443,"Glen Mills","19342",458,149,8,NA,NA,NA
+"1116",1444,"Glenmoore","19343",130,14,-1,NA,NA,NA
+"1117",1445,"Honey Brook","19344",194,39,0,NA,NA,NA
+"1118",1446,"Immaculata","19345",0,0,0,NA,NA,NA
+"1119",1447,"Kennett Square","19348",244,107,-1,NA,NA,NA
+"1120",1448,"Landenberg","19350",80,21,-1,NA,NA,NA
+"1121",1449,"Lincoln University","19352",79,11,-1,NA,NA,NA
+"1122",1450,"Malvern","19355",721,133,10,NA,NA,NA
+"1123",1451,"Nottingham","19362",64,14,0,NA,NA,NA
+"1124",1452,"Oxford","19363",186,62,-1,NA,NA,NA
+"1125",1453,"Parkesburg","19365",127,20,0,NA,NA,NA
+"1126",1454,"Thorndale","19372",62,-1,-1,NA,NA,NA
+"1127",1455,"Thornton","19373",49,122,-1,NA,NA,NA
+"1128",1456,"Toughkenamon","19374",8,20,0,NA,NA,NA
+"1129",1457,"West Chester","19380",925,251,15,NA,NA,NA
+"1130",1458,"West Chester","19382",792,306,20,NA,NA,NA
+"1131",1459,"West Chester","19383",-1,-1,0,NA,NA,NA
+"1132",1460,"West Grove","19390",132,47,-1,NA,NA,NA
+"1133",1461,"Norristown","19401",1406,738,-1,NA,NA,NA
+"1134",1462,"Norristown","19403",2459,451,0,NA,NA,NA
+"1135",1463,"Bridgeport","19405",151,38,0,NA,NA,NA
+"1136",1464,"King of Prussia","19406",661,128,0,NA,NA,NA
+"1137",1465,"Blue Bell","19422",554,112,-1,NA,NA,NA
+"1138",1466,"Chester Springs","19425",225,39,6,NA,NA,NA
+"1139",1467,"Collegeville","19426",846,165,0,NA,NA,NA
+"1140",1468,"Conshohocken","19428",526,75,0,NA,NA,NA
+"1141",1469,"Frederick","19435",7,-1,0,NA,NA,NA
+"1142",1470,"Gwynedd","19436",11,-1,0,NA,NA,NA
+"1143",1471,"Harleysville","19438",538,125,-1,NA,NA,NA
+"1144",1472,"Hatfield","19440",486,137,-1,NA,NA,NA
+"1145",1473,"Lafayette Hill","19444",355,92,0,NA,NA,NA
+"1146",1474,"Lansdale","19446",1588,391,-1,NA,NA,NA
+"1147",1475,"Mont Clare","19453",26,-1,0,NA,NA,NA
+"1148",1476,"North Wales","19454",750,118,0,NA,NA,NA
+"1149",1477,"Oaks","19456",10,-1,0,NA,NA,NA
+"1150",1478,"Phoenixville","19460",977,204,7,NA,NA,NA
+"1151",1479,"Plymouth Meeting","19462",523,105,0,NA,NA,NA
+"1152",1480,"Pottstown","19464",1235,210,0,NA,NA,NA
+"1153",1481,"Pottstown","19465",321,35,0,NA,NA,NA
+"1154",1482,"Royersford","19468",695,215,-1,NA,NA,NA
+"1155",1483,"Schwenksville","19473",298,47,0,NA,NA,NA
+"1156",1484,"Spring City","19475",278,107,15,NA,NA,NA
+"1157",1485,"Spring House","19477",32,51,0,NA,NA,NA
+"1158",1486,"Zieglerville","19492",9,-1,0,NA,NA,NA
+"1159",1487,"Adamstown","19501",27,-1,0,NA,NA,NA
+"1160",1488,"Bally","19503",31,-1,0,NA,NA,NA
+"1161",1489,"Barto","19504",109,9,0,NA,NA,NA
+"1162",1490,"Bechtelsville","19505",66,12,0,NA,NA,NA
+"1163",1491,"Bernville","19506",154,28,-1,NA,NA,NA
+"1164",1492,"Bethel","19507",53,6,0,NA,NA,NA
+"1165",1493,"Birdsboro","19508",296,55,-1,NA,NA,NA
+"1166",1494,"Blandon","19510",165,37,-1,NA,NA,NA
+"1167",1495,"Boyertown","19512",339,37,-1,NA,NA,NA
+"1168",1496,"Douglassville","19518",327,58,-1,NA,NA,NA
+"1169",1497,"Elverson","19520",86,6,0,NA,NA,NA
+"1170",1498,"Fleetwood","19522",261,41,-1,NA,NA,NA
+"1171",1499,"Gilbertsville","19525",344,42,0,NA,NA,NA
+"1172",1500,"Hamburg","19526",253,49,0,NA,NA,NA
+"1173",1501,"Kempton","19529",69,5,0,NA,NA,NA
+"1174",1502,"Kutztown","19530",236,49,0,NA,NA,NA
+"1175",1503,"Leesport","19533",155,65,-1,NA,NA,NA
+"1176",1504,"Lenhartsville","19534",38,-1,0,NA,NA,NA
+"1177",1505,"Mertztown","19539",102,10,-1,NA,NA,NA
+"1178",1506,"Mohnton","19540",218,21,-1,NA,NA,NA
+"1179",1507,"Mohrsville","19541",77,12,0,NA,NA,NA
+"1180",1508,"Morgantown","19543",100,9,-1,NA,NA,NA
+"1181",1509,"Oley","19547",78,20,0,NA,NA,NA
+"1182",1510,"Port Clinton","19549",-1,-1,0,NA,NA,NA
+"1183",1511,"Rehrersburg","19550",7,0,0,NA,NA,NA
+"1184",1512,"Robesonia","19551",90,12,-1,NA,NA,NA
+"1185",1513,"Shoemakersville","19555",71,-1,0,NA,NA,NA
+"1186",1514,"Temple","19560",194,79,-1,NA,NA,NA
+"1187",1515,"Topton","19562",95,31,-1,NA,NA,NA
+"1188",1516,"Wernersville","19565",179,61,-1,NA,NA,NA
+"1189",1517,"Womelsdorf","19567",97,41,0,NA,NA,NA
+"1190",1518,"Reading","19601",993,704,28,NA,NA,NA
+"1191",1519,"Reading","19602",565,338,7,NA,NA,NA
+"1192",1520,"Reading","19604",719,607,27,NA,NA,NA
+"1193",1521,"Reading","19605",505,189,9,NA,NA,NA
+"1194",1522,"Reading","19606",757,244,11,NA,NA,NA
+"1195",1523,"Reading","19607",555,135,-1,NA,NA,NA
+"1196",1524,"Reading","19608",462,264,-1,NA,NA,NA
+"1197",1525,"Reading","19609",212,58,-1,NA,NA,NA
+"1198",1526,"Reading","19610",425,111,6,NA,NA,NA
+"1199",1527,"Reading","19611",292,251,-1,NA,NA,NA
+"1200",1555,"Aliquippa","15001",370,41,-1,NA,NA,NA
+"1201",1556,"Ambridge","15003",135,12,-1,NA,NA,NA
+"1202",1557,"Atlasburg","15004",-1,-1,0,NA,NA,NA
+"1203",1558,"Baden","15005",133,9,-1,NA,NA,NA
+"1204",1559,"Bakerstown","15007",13,0,0,NA,NA,NA
+"1205",1560,"Beaver","15009",251,359,0,NA,NA,NA
+"1206",1561,"Beaver Falls","15010",310,32,5,NA,NA,NA
+"1207",1562,"Belle Vernon","15012",224,6,0,NA,NA,NA
+"1208",1563,"Brackenridge","15014",85,7,-1,NA,NA,NA
+"1209",1564,"Bradfordwoods","15015",11,-1,0,NA,NA,NA
+"1210",1565,"Bridgeville","15017",181,5,-1,NA,NA,NA
+"1211",1566,"Buena Vista","15018",14,0,0,NA,NA,NA
+"1212",1567,"Bulger","15019",20,-1,0,NA,NA,NA
+"1213",1568,"Burgettstown","15021",94,-1,0,NA,NA,NA
+"1214",1569,"Charleroi","15022",189,21,-1,NA,NA,NA
+"1215",1570,"Cheswick","15024",258,9,0,NA,NA,NA
+"1216",1571,"Clairton","15025",420,25,-1,NA,NA,NA
+"1217",1572,"Clinton","15026",32,-1,0,NA,NA,NA
+"1218",1573,"Conway","15027",35,-1,0,NA,NA,NA
+"1219",1574,"Creighton","15030",23,-1,0,NA,NA,NA
+"1220",1575,"Cuddy","15031",5,0,0,NA,NA,NA
+"1221",1576,"Curtisville","15032",6,0,0,NA,NA,NA
+"1222",1577,"Donora","15033",81,-1,-1,NA,NA,NA
+"1223",1578,"Dravosburg","15034",30,0,0,NA,NA,NA
+"1224",1579,"East Mc Keesport","15035",54,-1,-1,NA,NA,NA
+"1225",1580,"Elizabeth","15037",185,5,0,NA,NA,NA
+"1226",1581,"Freedom","15042",95,7,0,NA,NA,NA
+"1227",1582,"Georgetown","15043",20,-1,0,NA,NA,NA
+"1228",1583,"Gibsonia","15044",483,91,-1,NA,NA,NA
+"1229",1584,"Glassport","15045",95,-1,0,NA,NA,NA
+"1230",1585,"Crescent","15046",28,-1,0,NA,NA,NA
+"1231",1586,"Harwick","15049",18,0,0,NA,NA,NA
+"1232",1587,"Hookstown","15050",26,5,0,NA,NA,NA
+"1233",1588,"Indianola","15051",11,0,0,NA,NA,NA
+"1234",1589,"Industry","15052",38,5,0,NA,NA,NA
+"1235",1590,"Joffre","15053",-1,0,0,NA,NA,NA
+"1236",1591,"Langeloth","15054",10,0,0,NA,NA,NA
+"1237",1592,"Lawrence","15055",20,0,0,NA,NA,NA
+"1238",1593,"Leetsdale","15056",15,0,0,NA,NA,NA
+"1239",1594,"Mc Donald","15057",152,-1,0,NA,NA,NA
+"1240",1595,"Midland","15059",46,5,0,NA,NA,NA
+"1241",1596,"Midway","15060",11,0,0,NA,NA,NA
+"1242",1597,"Monaca","15061",135,17,-1,NA,NA,NA
+"1243",1598,"Monessen","15062",136,7,0,NA,NA,NA
+"1244",1599,"Monongahela","15063",271,9,0,NA,NA,NA
+"1245",1600,"Morgan","15064",5,0,0,NA,NA,NA
+"1246",1601,"Natrona Heights","15065",244,16,0,NA,NA,NA
+"1247",1602,"New Brighton","15066",120,9,0,NA,NA,NA
+"1248",1603,"New Eagle","15067",39,0,0,NA,NA,NA
+"1249",1604,"New Kensington","15068",772,46,0,NA,NA,NA
+"1250",1605,"Oakdale","15071",129,6,-1,NA,NA,NA
+"1251",1606,"Rochester","15074",121,20,0,NA,NA,NA
+"1252",1607,"Russellton","15076",28,0,0,NA,NA,NA
+"1253",1608,"Shippingport","15077",-1,0,0,NA,NA,NA
+"1254",1609,"Slovan","15078",6,0,0,NA,NA,NA
+"1255",1610,"Sturgeon","15082",6,0,0,NA,NA,NA
+"1256",1611,"Sutersville","15083",11,-1,0,NA,NA,NA
+"1257",1612,"Tarentum","15084",221,5,-1,NA,NA,NA
+"1258",1613,"Trafford","15085",136,-1,0,NA,NA,NA
+"1259",1614,"Warrendale","15086",9,0,0,NA,NA,NA
+"1260",1615,"West Newton","15089",104,5,0,NA,NA,NA
+"1261",1616,"Wexford","15090",428,40,-1,NA,NA,NA
+"1262",1617,"Allison Park","15101",406,35,0,NA,NA,NA
+"1263",1618,"Bethel Park","15102",368,23,-1,NA,NA,NA
+"1264",1619,"Braddock","15104",171,12,0,NA,NA,NA
+"1265",1620,"Carnegie","15106",234,13,-1,NA,NA,NA
+"1266",1621,"Coraopolis","15108",507,73,22,NA,NA,NA
+"1267",1622,"Duquesne","15110",74,8,0,NA,NA,NA
+"1268",1623,"East Pittsburgh","15112",82,-1,0,NA,NA,NA
+"1269",1624,"Glenshaw","15116",216,9,0,NA,NA,NA
+"1270",1625,"Homestead","15120",361,32,-1,NA,NA,NA
+"1271",1626,"West Mifflin","15122",394,32,-1,NA,NA,NA
+"1272",1627,"Imperial","15126",73,7,-1,NA,NA,NA
+"1273",1628,"South Park","15129",159,6,0,NA,NA,NA
+"1274",1629,"McKeesport","15131",146,6,0,NA,NA,NA
+"1275",1630,"McKeesport","15132",414,41,-1,NA,NA,NA
+"1276",1631,"McKeesport","15133",92,-1,0,NA,NA,NA
+"1277",1632,"McKeesport","15135",64,-1,0,NA,NA,NA
+"1278",1633,"Mc Kees Rocks","15136",331,21,-1,NA,NA,NA
+"1279",1634,"North Versailles","15137",234,14,0,NA,NA,NA
+"1280",1635,"Oakmont","15139",159,-1,0,NA,NA,NA
+"1281",1636,"Pitcairn","15140",74,-1,0,NA,NA,NA
+"1282",1637,"Presto","15142",20,-1,0,NA,NA,NA
+"1283",1638,"Sewickley","15143",364,30,-1,NA,NA,NA
+"1284",1639,"Springdale","15144",90,-1,0,NA,NA,NA
+"1285",1640,"Turtle Creek","15145",143,7,0,NA,NA,NA
+"1286",1641,"Monroeville","15146",788,33,-1,NA,NA,NA
+"1287",1642,"Verona","15147",329,17,0,NA,NA,NA
+"1288",1643,"Wilmerding","15148",50,-1,0,NA,NA,NA
+"1289",1644,"Pittsburgh","15201",261,24,-1,NA,NA,NA
+"1290",1645,"Pittsburgh","15202",328,13,0,NA,NA,NA
+"1291",1646,"Pittsburgh","15203",159,12,-1,NA,NA,NA
+"1292",1647,"Pittsburgh","15204",125,-1,0,NA,NA,NA
+"1293",1648,"Pittsburgh","15205",354,31,-1,NA,NA,NA
+"1294",1649,"Pittsburgh","15206",659,45,-1,NA,NA,NA
+"1295",1650,"Pittsburgh","15207",227,92,-1,NA,NA,NA
+"1296",1651,"Pittsburgh","15208",193,10,0,NA,NA,NA
+"1297",1652,"Pittsburgh","15209",201,10,-1,NA,NA,NA
+"1298",1653,"Pittsburgh","15210",437,36,-1,NA,NA,NA
+"1299",1654,"Pittsburgh","15211",183,12,-1,NA,NA,NA
+"1300",1655,"Pittsburgh","15212",596,37,0,NA,NA,NA
+"1301",1656,"Pittsburgh","15213",238,28,-1,NA,NA,NA
+"1302",1657,"Pittsburgh","15214",260,26,0,NA,NA,NA
+"1303",1658,"Pittsburgh","15215",241,14,-1,NA,NA,NA
+"1304",1659,"Pittsburgh","15216",327,14,-1,NA,NA,NA
+"1305",1660,"Pittsburgh","15217",576,44,-1,NA,NA,NA
+"1306",1661,"Pittsburgh","15218",294,13,0,NA,NA,NA
+"1307",1662,"Pittsburgh","15219",302,42,0,NA,NA,NA
+"1308",1663,"Pittsburgh","15220",363,13,-1,NA,NA,NA
+"1309",1664,"Pittsburgh","15221",593,88,0,NA,NA,NA
+"1310",1665,"Pittsburgh","15222",101,7,0,NA,NA,NA
+"1311",1666,"Pittsburgh","15223",161,-1,-1,NA,NA,NA
+"1312",1667,"Pittsburgh","15224",221,12,-1,NA,NA,NA
+"1313",1668,"Pittsburgh","15225",19,-1,0,NA,NA,NA
+"1314",1669,"Pittsburgh","15226",243,10,-1,NA,NA,NA
+"1315",1670,"Pittsburgh","15227",500,29,-1,NA,NA,NA
+"1316",1671,"Pittsburgh","15228",330,12,0,NA,NA,NA
+"1317",1672,"Pittsburgh","15229",226,9,0,NA,NA,NA
+"1318",1673,"Pittsburgh","15231",0,0,0,NA,NA,NA
+"1319",1674,"Pittsburgh","15232",282,56,-1,NA,NA,NA
+"1320",1675,"Pittsburgh","15233",59,7,0,NA,NA,NA
+"1321",1676,"Pittsburgh","15234",252,6,0,NA,NA,NA
+"1322",1677,"Pittsburgh","15235",814,47,0,NA,NA,NA
+"1323",1678,"Pittsburgh","15236",571,30,-1,NA,NA,NA
+"1324",1679,"Pittsburgh","15237",768,60,-1,NA,NA,NA
+"1325",1680,"Pittsburgh","15238",286,10,-1,NA,NA,NA
+"1326",1681,"Pittsburgh","15239",371,9,0,NA,NA,NA
+"1327",1682,"Pittsburgh","15241",221,19,-1,NA,NA,NA
+"1328",1683,"Pittsburgh","15243",682,16,-1,NA,NA,NA
+"1329",1684,"Pittsburgh","15260",0,0,0,NA,NA,NA
+"1330",1685,"Pittsburgh","15261",0,0,0,NA,NA,NA
+"1331",1686,"Pittsburgh","15275",-1,0,0,NA,NA,NA
+"1332",1687,"Washington","15301",995,18,0,NA,NA,NA
+"1333",1688,"Aleppo","15310",-1,0,0,NA,NA,NA
+"1334",1689,"Amity","15311",14,0,0,NA,NA,NA
+"1335",1690,"Avella","15312",56,-1,0,NA,NA,NA
+"1336",1691,"Beallsville","15313",10,0,0,NA,NA,NA
+"1337",1692,"Bentleyville","15314",85,-1,0,NA,NA,NA
+"1338",1693,"Canonsburg","15317",716,25,-1,NA,NA,NA
+"1339",1694,"Carmichaels","15320",108,7,0,NA,NA,NA
+"1340",1695,"Cecil","15321",11,-1,0,NA,NA,NA
+"1341",1696,"Clarksville","15322",38,-1,-1,NA,NA,NA
+"1342",1697,"Claysville","15323",49,-1,0,NA,NA,NA
+"1343",1698,"Cokeburg","15324",17,-1,0,NA,NA,NA
+"1344",1699,"Dilliner","15327",33,-1,0,NA,NA,NA
+"1345",1700,"Prosperity","15329",22,0,0,NA,NA,NA
+"1346",1701,"Eighty Four","15330",61,-1,0,NA,NA,NA
+"1347",1702,"Ellsworth","15331",27,0,0,NA,NA,NA
+"1348",1703,"Finleyville","15332",115,9,-1,NA,NA,NA
+"1349",1704,"Fredericktown","15333",46,0,0,NA,NA,NA
+"1350",1705,"Garards Fort","15334",5,0,0,NA,NA,NA
+"1351",1706,"Graysville","15337",15,-1,0,NA,NA,NA
+"1352",1707,"Greensboro","15338",30,-1,0,NA,NA,NA
+"1353",1708,"Hickory","15340",19,-1,0,NA,NA,NA
+"1354",1709,"Holbrook","15341",14,0,0,NA,NA,NA
+"1355",1710,"Houston","15342",57,6,0,NA,NA,NA
+"1356",1711,"Jefferson","15344",34,-1,0,NA,NA,NA
+"1357",1712,"Marianna","15345",33,-1,0,NA,NA,NA
+"1358",1713,"Mather","15346",16,-1,0,NA,NA,NA
+"1359",1714,"Meadow Lands","15347",11,0,0,NA,NA,NA
+"1360",1715,"Mount Morris","15349",26,0,0,NA,NA,NA
+"1361",1716,"New Freeport","15352",10,0,0,NA,NA,NA
+"1362",1717,"Nineveh","15353",-1,0,0,NA,NA,NA
+"1363",1718,"Rices Landing","15357",31,-1,0,NA,NA,NA
+"1364",1719,"Rogersville","15359",-1,0,0,NA,NA,NA
+"1365",1720,"Scenery Hill","15360",36,0,0,NA,NA,NA
+"1366",1721,"Southview","15361",-1,0,0,NA,NA,NA
+"1367",1722,"Spraggs","15362",16,0,0,NA,NA,NA
+"1368",1723,"Strabane","15363",15,0,0,NA,NA,NA
+"1369",1724,"Sycamore","15364",7,0,0,NA,NA,NA
+"1370",1725,"Venetia","15367",93,7,-1,NA,NA,NA
+"1371",1726,"Waynesburg","15370",244,7,-1,NA,NA,NA
+"1372",1727,"West Alexander","15376",34,0,0,NA,NA,NA
+"1373",1728,"West Finley","15377",7,0,0,NA,NA,NA
+"1374",1729,"Wind Ridge","15380",7,0,0,NA,NA,NA
+"1375",1730,"Uniontown","15401",753,32,-1,NA,NA,NA
+"1376",1731,"Adah","15410",14,-1,0,NA,NA,NA
+"1377",1732,"Addison","15411",8,0,0,NA,NA,NA
+"1378",1733,"Allenport","15412",6,0,0,NA,NA,NA
+"1379",1734,"Allison","15413",17,0,0,NA,NA,NA
+"1380",1735,"Brownsville","15417",149,-1,0,NA,NA,NA
+"1381",1736,"California","15419",43,-1,0,NA,NA,NA
+"1382",1737,"Coal Center","15423",31,-1,0,NA,NA,NA
+"1383",1738,"Confluence","15424",30,0,0,NA,NA,NA
+"1384",1739,"Connellsville","15425",366,9,0,NA,NA,NA
+"1385",1740,"Daisytown","15427",25,0,0,NA,NA,NA
+"1386",1741,"Dawson","15428",33,0,0,NA,NA,NA
+"1387",1742,"Denbo","15429",5,0,0,NA,NA,NA
+"1388",1743,"Dunbar","15431",99,-1,0,NA,NA,NA
+"1389",1744,"Dunlevy","15432",9,0,0,NA,NA,NA
+"1390",1745,"East Millsboro","15433",16,0,0,NA,NA,NA
+"1391",1746,"Elco","15434",9,0,0,NA,NA,NA
+"1392",1747,"Fairchance","15436",56,0,0,NA,NA,NA
+"1393",1748,"Farmington","15437",30,5,0,NA,NA,NA
+"1394",1749,"Fayette City","15438",31,-1,0,NA,NA,NA
+"1395",1750,"Gibbon Glade","15440",6,0,0,NA,NA,NA
+"1396",1751,"Grindstone","15442",41,0,0,NA,NA,NA
+"1397",1752,"Hiller","15444",16,0,0,NA,NA,NA
+"1398",1753,"Hopwood","15445",59,6,0,NA,NA,NA
+"1399",1754,"Indian Head","15446",7,0,0,NA,NA,NA
+"1400",1755,"La Belle","15450",41,-1,0,NA,NA,NA
+"1401",1756,"Lake Lynn","15451",18,0,0,NA,NA,NA
+"1402",1757,"Lemont Furnace","15456",58,-1,0,NA,NA,NA
+"1403",1758,"Mc Clellandtown","15458",45,-1,0,NA,NA,NA
+"1404",1759,"Markleysburg","15459",26,0,0,NA,NA,NA
+"1405",1760,"Masontown","15461",93,-1,0,NA,NA,NA
+"1406",1761,"Melcroft","15462",-1,0,0,NA,NA,NA
+"1407",1762,"Merrittstown","15463",5,0,0,NA,NA,NA
+"1408",1763,"Mill Run","15464",24,0,0,NA,NA,NA
+"1409",1764,"New Salem","15468",53,0,0,NA,NA,NA
+"1410",1765,"Normalville","15469",46,-1,0,NA,NA,NA
+"1411",1766,"Ohiopyle","15470",7,0,0,NA,NA,NA
+"1412",1767,"Perryopolis","15473",70,-1,0,NA,NA,NA
+"1413",1768,"Point Marion","15474",40,-1,0,NA,NA,NA
+"1414",1769,"Republic","15475",25,0,0,NA,NA,NA
+"1415",1770,"Roscoe","15477",11,-1,0,NA,NA,NA
+"1416",1771,"Smithfield","15478",115,5,-1,NA,NA,NA
+"1417",1772,"Smithton","15479",46,-1,0,NA,NA,NA
+"1418",1773,"Smock","15480",41,0,0,NA,NA,NA
+"1419",1774,"Star Junction","15482",10,0,0,NA,NA,NA
+"1420",1775,"Stockdale","15483",13,-1,0,NA,NA,NA
+"1421",1776,"Uledi","15484",6,0,0,NA,NA,NA
+"1422",1777,"Vanderbilt","15486",54,-1,0,NA,NA,NA
+"1423",1778,"Waltersburg","15488",-1,0,0,NA,NA,NA
+"1424",1779,"White","15490",11,0,0,NA,NA,NA
+"1425",1780,"Somerset","15501",349,5,0,NA,NA,NA
+"1426",1781,"Fort Hill","15540",-1,0,0,NA,NA,NA
+"1427",1782,"Markleton","15551",10,0,0,NA,NA,NA
+"1428",1783,"Rockwood","15557",68,-1,-1,NA,NA,NA
+"1429",1784,"Greensburg","15601",1369,65,-1,NA,NA,NA
+"1430",1785,"Acme","15610",77,7,0,NA,NA,NA
+"1431",1786,"Adamsburg","15611",12,0,0,NA,NA,NA
+"1432",1787,"Alverton","15612",13,0,0,NA,NA,NA
+"1433",1788,"Apollo","15613",244,11,0,NA,NA,NA
+"1434",1789,"Ardara","15615",-1,0,0,NA,NA,NA
+"1435",1790,"Armbrust","15616",5,0,0,NA,NA,NA
+"1436",1791,"Arona","15617",9,0,0,NA,NA,NA
+"1437",1792,"Avonmore","15618",47,-1,0,NA,NA,NA
+"1438",1793,"Bradenville","15620",14,0,0,NA,NA,NA
+"1439",1794,"Champion","15622",26,-1,0,NA,NA,NA
+"1440",1795,"Claridge","15623",21,0,0,NA,NA,NA
+"1441",1796,"Delmont","15626",112,-1,0,NA,NA,NA
+"1442",1797,"Derry","15627",156,14,0,NA,NA,NA
+"1443",1798,"Donegal","15628",14,-1,0,NA,NA,NA
+"1444",1799,"Everson","15631",14,0,0,NA,NA,NA
+"1445",1800,"Export","15632",164,-1,0,NA,NA,NA
+"1446",1801,"Grapeville","15634",16,0,0,NA,NA,NA
+"1447",1802,"Harrison City","15636",56,-1,0,NA,NA,NA
+"1448",1803,"Herminie","15637",39,-1,0,NA,NA,NA
+"1449",1804,"Hunker","15639",39,0,0,NA,NA,NA
+"1450",1805,"Hyde Park","15641",11,-1,0,NA,NA,NA
+"1451",1806,"Irwin","15642",875,30,-1,NA,NA,NA
+"1452",1807,"Jeannette","15644",429,13,-1,NA,NA,NA
+"1453",1808,"Jones Mills","15646",-1,0,0,NA,NA,NA
+"1454",1809,"Larimer","15647",10,0,0,NA,NA,NA
+"1455",1810,"Latrobe","15650",698,85,0,NA,NA,NA
+"1456",1811,"Laughlintown","15655",-1,0,0,NA,NA,NA
+"1457",1812,"Leechburg","15656",162,46,-1,NA,NA,NA
+"1458",1813,"Ligonier","15658",194,23,-1,NA,NA,NA
+"1459",1814,"Loyalhanna","15661",15,0,0,NA,NA,NA
+"1460",1815,"Madison","15663",8,-1,0,NA,NA,NA
+"1461",1816,"Manor","15665",28,-1,0,NA,NA,NA
+"1462",1817,"Mount Pleasant","15666",316,16,0,NA,NA,NA
+"1463",1818,"Murrysville","15668",282,10,-1,NA,NA,NA
+"1464",1819,"New Alexandria","15670",61,-1,0,NA,NA,NA
+"1465",1820,"New Derry","15671",16,-1,0,NA,NA,NA
+"1466",1821,"New Stanton","15672",61,0,0,NA,NA,NA
+"1467",1822,"North Apollo","15673",26,0,0,NA,NA,NA
+"1468",1823,"Penn","15675",33,0,0,NA,NA,NA
+"1469",1824,"Rector","15677",9,0,0,NA,NA,NA
+"1470",1825,"Rillton","15678",15,-1,0,NA,NA,NA
+"1471",1826,"Ruffs Dale","15679",75,-1,0,NA,NA,NA
+"1472",1827,"Saltsburg","15681",85,-1,0,NA,NA,NA
+"1473",1828,"Scottdale","15683",183,-1,0,NA,NA,NA
+"1474",1829,"Slickville","15684",9,0,0,NA,NA,NA
+"1475",1830,"Southwest","15685",-1,0,0,NA,NA,NA
+"1476",1831,"Spring Church","15686",6,0,0,NA,NA,NA
+"1477",1832,"Stahlstown","15687",25,-1,0,NA,NA,NA
+"1478",1833,"Tarrs","15688",21,0,0,NA,NA,NA
+"1479",1834,"Vandergrift","15690",179,6,0,NA,NA,NA
+"1480",1835,"Westmoreland City","15692",20,-1,0,NA,NA,NA
+"1481",1836,"Youngwood","15697",81,-1,0,NA,NA,NA
+"1482",1837,"Yukon","15698",17,0,0,NA,NA,NA
+"1483",1838,"Indiana","15701",173,28,5,NA,NA,NA
+"1484",1839,"Aultman","15713",-1,-1,0,NA,NA,NA
+"1485",1840,"Blairsville","15717",180,20,0,NA,NA,NA
+"1486",1841,"Clarksburg","15725",10,-1,0,NA,NA,NA
+"1487",1842,"Creekside","15732",9,-1,0,NA,NA,NA
+"1488",1843,"Home","15747",8,0,0,NA,NA,NA
+"1489",1844,"Homer City","15748",44,8,-1,NA,NA,NA
+"1490",1845,"Shelocta","15774",31,7,0,NA,NA,NA
+"1491",1846,"Bolivar","15923",35,-1,0,NA,NA,NA
+"1492",1847,"Butler","16001",748,50,-1,NA,NA,NA
+"1493",1848,"Butler","16002",249,14,5,NA,NA,NA
+"1494",1849,"Cabot","16023",122,-1,-1,NA,NA,NA
+"1495",1850,"Connoquenessing","16027",6,-1,0,NA,NA,NA
+"1496",1851,"Evans City","16033",101,8,-1,NA,NA,NA
+"1497",1852,"Fenelton","16034",24,0,0,NA,NA,NA
+"1498",1853,"Harmony","16037",200,6,0,NA,NA,NA
+"1499",1854,"Lyndora","16045",24,-1,-1,NA,NA,NA
+"1500",1855,"Mars","16046",305,11,-1,NA,NA,NA
+"1501",1856,"Prospect","16052",34,0,0,NA,NA,NA
+"1502",1857,"Renfrew","16053",55,-1,0,NA,NA,NA
+"1503",1858,"Sarver","16055",172,15,0,NA,NA,NA
+"1504",1859,"Saxonburg","16056",87,6,-1,NA,NA,NA
+"1505",1860,"Valencia","16059",153,7,-1,NA,NA,NA
+"1506",1861,"Zelienople","16063",130,11,-1,NA,NA,NA
+"1507",1862,"Cranberry Township","16066",467,25,5,NA,NA,NA
+"1508",1863,"Darlington","16115",22,0,0,NA,NA,NA
+"1509",1864,"Ellwood City","16117",212,19,0,NA,NA,NA
+"1510",1865,"Enon Valley","16120",25,0,0,NA,NA,NA
+"1511",1866,"Fombell","16123",29,0,0,NA,NA,NA
+"1512",1867,"Koppel","16136",13,0,0,NA,NA,NA
+"1513",1868,"New Galilee","16141",16,0,0,NA,NA,NA
+"1514",1869,"Wampum","16157",28,-1,0,NA,NA,NA
+"1515",1870,"Kittanning","16201",319,7,0,NA,NA,NA
+"1516",1871,"Adrian","16210",25,-1,0,NA,NA,NA
+"1517",1872,"Cadogan","16212",9,-1,0,NA,NA,NA
+"1518",1873,"Dayton","16222",24,-1,0,NA,NA,NA
+"1519",1874,"Ford City","16226",127,-1,0,NA,NA,NA
+"1520",1875,"Ford Cliff","16228",5,-1,0,NA,NA,NA
+"1521",1876,"Freeport","16229",80,5,0,NA,NA,NA
+"1522",1877,"Manorville","16238",-1,0,0,NA,NA,NA
+"1523",1878,"Rural Valley","16249",24,5,0,NA,NA,NA
+"1524",1879,"Smicksburg","16256",7,0,0,NA,NA,NA
+"1525",1880,"Templeton","16259",34,0,0,NA,NA,NA
+"1526",1881,"Worthington","16262",51,-1,0,NA,NA,NA
+"1527",1882,"Yatesboro","16263",5,0,0,NA,NA,NA
+"1528",1883,"Cornwall","17016",27,11,0,NA,NA,NA
+"1529",1884,"Campbelltown","17010",8,0,0,NA,NA,NA
+"1530",1885,"Kleinfeltersville","17039",-1,0,0,NA,NA,NA
+"1531",1886,"Lawn","17041",-1,0,0,NA,NA,NA
+"1532",1887,"Bairdford","15006",6,0,0,NA,NA,NA
+"1533",1888,"Elrama","15038",9,0,0,NA,NA,NA
+"1534",1889,"Greenock","15047",5,0,0,NA,NA,NA
+"1535",1890,"Rural Ridge","15075",5,0,0,NA,NA,NA
+"1536",1891,"Webster","15087",-1,-1,0,NA,NA,NA
+"1537",1892,"West Elizabeth","15088",9,0,0,NA,NA,NA
+"1538",1893,"Bobtown","15315",23,0,0,NA,NA,NA
+"1539",1894,"Brave","15316",5,0,0,NA,NA,NA
+"1540",1895,"Crucible","15325",9,0,0,NA,NA,NA
+"1541",1896,"Millsboro","15348",11,0,0,NA,NA,NA
+"1542",1898,"Nemacolin","15351",14,-1,0,NA,NA,NA
+"1543",1899,"Richeyville","15358",21,0,0,NA,NA,NA
+"1544",1900,"Westland","15378",5,0,0,NA,NA,NA
+"1545",1901,"West Middletown","15379",-1,0,0,NA,NA,NA
+"1546",1902,"Cardale","15420",7,-1,0,NA,NA,NA
+"1547",1903,"Chalkhill","15421",5,-1,0,NA,NA,NA
+"1548",1904,"Chestnut Ridge","15422",-1,-1,0,NA,NA,NA
+"1549",1905,"Dickerson Run","15430",11,0,0,NA,NA,NA
+"1550",1906,"Fairbank","15435",16,0,0,NA,NA,NA
+"1551",1907,"Hibbs","15443",7,0,0,NA,NA,NA
+"1552",1908,"Isabella","15447",-1,0,0,NA,NA,NA
+"1553",1909,"Jacobs Creek","15448",-1,0,0,NA,NA,NA
+"1554",1910,"Keisterville","15449",6,0,0,NA,NA,NA
+"1555",1911,"Leisenring","15455",7,0,0,NA,NA,NA
+"1556",1913,"Martin","15460",-1,0,0,NA,NA,NA
+"1557",1914,"Newell","15466",9,0,0,NA,NA,NA
+"1558",1915,"New Geneva","15467",7,0,0,NA,NA,NA
+"1559",1916,"Oliver","15472",-1,0,0,NA,NA,NA
+"1560",1917,"Ronco","15476",-1,0,0,NA,NA,NA
+"1561",1918,"West Leisenring","15489",6,0,0,NA,NA,NA
+"1562",1919,"Hidden Valley","15502",-1,0,0,NA,NA,NA
+"1563",1920,"Somerset","15510",31,0,0,NA,NA,NA
+"1564",1921,"Acosta","15520",6,0,0,NA,NA,NA
+"1565",1922,"Boynton","15532",-1,0,0,NA,NA,NA
+"1566",1923,"Gray","15544",-1,0,0,NA,NA,NA
+"1567",1924,"Jennerstown","15547",15,-1,0,NA,NA,NA
+"1568",1925,"Shanksville","15560",-1,0,0,NA,NA,NA
+"1569",1926,"Sipesville","15561",8,0,0,NA,NA,NA
+"1570",1927,"Darragh","15625",-1,0,0,NA,NA,NA
+"1571",1928,"East Vandergrift","15629",15,-1,0,NA,NA,NA
+"1572",1929,"Forbes Road","15633",6,0,0,NA,NA,NA
+"1573",1930,"Grapeville","15634",16,0,0,NA,NA,NA
+"1574",1931,"Hannastown","15635",-1,0,0,NA,NA,NA
+"1575",1932,"Hostetter","15638",-1,0,0,NA,NA,NA
+"1576",1933,"Hutchinson","15640",-1,0,0,NA,NA,NA
+"1577",1934,"Lowber","15660",6,0,0,NA,NA,NA
+"1578",1935,"Luxor","15662",-1,0,0,NA,NA,NA
+"1579",1936,"Pleasant Unity","15676",10,0,0,NA,NA,NA
+"1580",1938,"United","15689",-1,0,0,NA,NA,NA
+"1581",1939,"Wendel","15691",8,-1,-1,NA,NA,NA
+"1582",1940,"Wyano","15695",7,-1,0,NA,NA,NA
+"1583",1941,"Youngstown","15696",16,-1,0,NA,NA,NA
+"1584",1942,"Arcadia","15712",-1,-1,0,NA,NA,NA
+"1585",1943,"Big Run","15715",10,0,0,NA,NA,NA
+"1586",1944,"Dixonville","15734",-1,0,0,NA,NA,NA
+"1587",1945,"Elderton","15736",-1,0,0,NA,NA,NA
+"1588",1946,"Emeigh","15738",-1,0,0,NA,NA,NA
+"1589",1947,NA,"15741",-1,0,0,NA,NA,NA
