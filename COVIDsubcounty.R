@@ -33,7 +33,7 @@ write.csv(file=paste0("OKzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),r
 write.csv(file=paste0("ORzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),ORzip051620<-jsonlite::fromJSON("https://projects.oregonlive.com/coronavirus/data/rona_zip.json")[["features"]][["properties"]])
 
 #Pennsylvania Zip Code Data
-write.csv(file=paste0("PAzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),jsonlite::fromJSON("https://services2.arcgis.com/xtuWQvb2YQnp0z3F/ArcGIS/rest/services/Zip_Code_COVID19_Case_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=OBJECTID,PO_NAME,ZIP_CODE,Negative,Positive,Probable,Additional_Tracking,Positive_Redacted,Negative_Redacted&orderByFields=OBJECTID")[["features"]][["attributes"]])
+write.csv(file=paste0("PAzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),jsonlite::fromJSON("https://services2.arcgis.com/xtuWQvb2YQnp0z3F/ArcGIS/rest/services/ZIP_Code_PA_COVID/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=OBJECTID,PO_NAME,ZIP_CODE,Negative,Positive,Probable,Additional_Tracking,Positive_Redacted,Negative_Redacted&orderByFields=OBJECTID")[["features"]][["attributes"]])
 
 #Rhode Island Zip Code Data
 write.csv(file=paste0("RIzip",gsub("[ :]","_",gsub("-","",Sys.time())),".csv"),read.csv("https://static.dwcdn.net/data/59UZY.csv"))
