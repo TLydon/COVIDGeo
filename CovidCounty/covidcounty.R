@@ -13,3 +13,8 @@ covidcounty1<-merge(covidcounty1,countypop,by="fips")
 
 covidcounty1$newcasescapita<-covidcounty1$newcases/covidcounty1$population
 covidcounty1$newdeathscapita<-covidcounty1$newdeaths/covidcounty1$population
+
+
+county2016<-read.csv("https://raw.githubusercontent.com/tonmcg/US_County_Level_Election_Results_08-16/master/2016_US_County_Level_Presidential_Results.csv")
+county2016$netdem<-county2016$per_dem-county2016$per_gop
+county2016$dembin<-as.numeric(county2016$netdem>0)
